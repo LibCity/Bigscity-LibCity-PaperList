@@ -5,13 +5,13 @@
 | Traffic Flow Prediction             | AutoEncoder [1], RNN [2], Seq2Seq [3], ST-ResNet [4], ACFM [5], ASTGCN [6], MSTGCN [7], AGCRN [8], CONVGCN [9],  STDN [10], STSGCN [11], ToGCN [12], ResLSTM [13], CRANN [14], Multi-STGCnet [15], DGCN [16], DSAN [17] |
 | Traffic Speed Prediction            | AutoEncoder [1], RNN [2], Seq2Seq [3], DCRNN [18], STGCN [19], GWNET [20], MTGNN [21], TGCN [22], TGCLSTM [23], ATDM [24], GMAN [25], GTS [26], STAGGCN [27], HGCN [28], ST-MGAT [29] |
 | On-Demand Service Prediction        | AutoEncoder [1], RNN [2], Seq2Seq [3], DMVSTNET [30], STG2Seq [31] |
-| Trajectory Next-Location Prediction | FPMC [32], RNN [2], ST-RNN [33], ATST-LSTM [34], SERM [35], DeepMove [36], HST-LSTM [37], LSTPM [38], GeoSAN [39], STAN [40], CARA [41] |
+| Trajectory Next-Location Prediction | FPMC [32], RNN [33], ST-RNN [34], ATST-LSTM [35], SERM [36], DeepMove [37], HST-LSTM [38], LSTPM [39], GeoSAN [40], STAN [41], CARA [42] |
 
 #### Citation list
 
-[1] This baseline model is implemented by ourselves.
+[1] This baseline model is implemented by ourselves for traffic state prediction task based on AutoEncoder
 
-[2] This baseline model is implemented by ourselves.
+[2] This baseline model is implemented by ourselves for traffic state prediction task based on RNN.
 
 [3] Yaguang Li, Rose Yu, Cyrus Shahabi, and Yan Liu. 2018. Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting. In ICLR (Poster). OpenReview.net.
 
@@ -73,21 +73,23 @@
 
 [32] Steffen Rendle, Christoph Freudenthaler, and Lars Schmidt-Thieme. 2010. Factorizing personalized Markov chains for next-basket recommendation. In WWW.ACM, 811–820.
 
-[33] Qiang Liu, Shu Wu, Liang Wang, and Tieniu Tan. 2016. Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts. In AAAI. AAAI Press, 194–200.
+[33] This baseline model is implemented by ourselves for trajectory next-location prediction task based on RNN.
 
-[34] Liwei Huang, Yutao Ma, Shibo Wang, and Yanbo Liu. 2019. An attention-based spatiotemporal lstm network for next poi recommendation. IEEE Transactions on Services Computing(2019).
+[34] Qiang Liu, Shu Wu, Liang Wang, and Tieniu Tan. 2016. Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts. In AAAI. AAAI Press, 194–200.
 
-[35] Di Yao, Chao Zhang, Jian-Hui Huang, and Jingping Bi. 2017. SERM: A Recurrent Model for Next Location Prediction in Semantic Trajectories. In CIKM. ACM,2411–24.
+[35] Liwei Huang, Yutao Ma, Shibo Wang, and Yanbo Liu. 2019. An attention-based spatiotemporal lstm network for next poi recommendation. IEEE Transactions on Services Computing(2019).
 
-[36] Jie Feng, Yong Li, Chao Zhang, Funing Sun, Fanchao Meng, Ang Guo, and Depeng Jin. 2018. DeepMove: Predicting Human Mobility with Attentional Recurrent Networks. In WWW. ACM, 1459–1468.
+[36] Di Yao, Chao Zhang, Jian-Hui Huang, and Jingping Bi. 2017. SERM: A Recurrent Model for Next Location Prediction in Semantic Trajectories. In CIKM. ACM,2411–24.
 
-[37] Dejiang Kong and Fei Wu. 2018.  HST-LSTM: A Hierarchical Spatial-Temporal Long-Short Term Memory Network for Location Prediction. In IJCAI. ijcai.org,2341–2347.
+[37] Jie Feng, Yong Li, Chao Zhang, Funing Sun, Fanchao Meng, Ang Guo, and Depeng Jin. 2018. DeepMove: Predicting Human Mobility with Attentional Recurrent Networks. In WWW. ACM, 1459–1468.
 
-[38] Ke Sun, Tieyun Qian, Tong Chen, Yile Liang, Quoc Viet Hung Nguyen, and HongzhiYin. 2020. Where to Go Next: Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation. In AAAI. AAAI Press, 214-221.
+[38] Dejiang Kong and Fei Wu. 2018.  HST-LSTM: A Hierarchical Spatial-Temporal Long-Short Term Memory Network for Location Prediction. In IJCAI. ijcai.org,2341–2347.
 
-[39] Defu Lian, Yongji Wu, Yong Ge, Xing Xie, and Enhong Chen. 2020. Geography-Aware Sequential Location Recommendation. In KDD. ACM, 2009–2019.
+[39] Ke Sun, Tieyun Qian, Tong Chen, Yile Liang, Quoc Viet Hung Nguyen, and HongzhiYin. 2020. Where to Go Next: Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation. In AAAI. AAAI Press, 214-221.
 
-[40] Yingtao Luo, Qiang Liu, and Zhaocheng Liu. 2021. STAN: Spatio-Temporal Attention Network for Next Location Recommendation. CoRR abs/2102.04095 (2021).
+[40] Defu Lian, Yongji Wu, Yong Ge, Xing Xie, and Enhong Chen. 2020. Geography-Aware Sequential Location Recommendation. In KDD. ACM, 2009–2019.
 
-[41] Jarana Manotumruksa, Craig Macdonald, and Iadh Ounis. 2018.  A Contextual Attention Recurrent Architecture for Context-Aware Venue Recommendation. In SIGIR. ACM, 555–564.
+[41] Yingtao Luo, Qiang Liu, and Zhaocheng Liu. 2021. STAN: Spatio-Temporal Attention Network for Next Location Recommendation. CoRR abs/2102.04095 (2021).
+
+[42] Jarana Manotumruksa, Craig Macdonald, and Iadh Ounis. 2018.  A Contextual Attention Recurrent Architecture for Context-Aware Venue Recommendation. In SIGIR. ACM, 555–564.
 
