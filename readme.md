@@ -13,11 +13,8 @@
   - [IEEE TKDE](#ieee-tkde)
   - [ACM TIST](#acm-tist)
   - [Others](#others)
-
 ## Surveys
-
 **2020**
-
 ___
 1. **A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges.** *David Alexander Tedjopurnomo, Zhifeng Bao, Baihua Zheng, Farhana Choudhury, AK Qin.* IEEE TKDE 2020. [link](https://ieeexplore.ieee.org/abstract/document/9112608)
 1. **A Comprehensive Survey on Traffic Prediction.** *Xueyan Yin, Genze Wu, Jinze Wei, Yanming Shen, Heng Qi, Baocai Yin.* arXiv 2020. [link](https://arxiv.org/abs/2004.08555)
@@ -36,7 +33,8 @@ ___
 1. **Survey on traffic prediction in smart cities.** *Attila M Nagy, Vilmos Simon.* Pervasive and Mobile Computing 2018. [link](https://www.sciencedirect.com/science/article/abs/pii/S1574119217306521)
 ## AAAI
 
-**---2020---**
+**2020**
+___
 1. **An Attentional Recurrent Neural Network for Personalized Next Location Recommendation.** *Qing Guo, Zhu Sun, Jie Zhang, Yin-Leng Theng.* AAAI 2020. [link](https://ojs.aaai.org//index.php/AAAI/article/view/5337)
 1. **AirNet: A Calibration Model for Low-Cost Air Monitoring Sensors Using Dual Sequence Encoder Networks.** *Haomin Yu, Qingyong Li, Yangli-ao Geng, Yingjun Zhang, Zhi Wei.* AAAI 2020. [link](https://ojs.aaai.org//index.php/AAAI/article/view/5464)
 1. **A Simple, Fast, and Safe Mediator for Congestion Management.** *Kei Ikegami, Kyohei Okumura, Takumi Yoshikawa.* AAAI 2020. [link](https://ojs.aaai.org//index.php/AAAI/article/view/5575)
@@ -72,7 +70,8 @@ ___
 1. **Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding.** *Zhecheng Wang, Haoyuan Li, Ram Rajagopal.* AAAI 2020. [link](https://ojs.aaai.org//index.php/AAAI/article/view/5450)
 1. **Where to Go Next: Modeling Long- and Short-Term User Preferences for Point-of-Interest Recommendation.** *Sun, Tieyun Qian, Tong Chen, Yile Liang, Quoc Viet Hung Nguyen, Hongzhi Yin.* AAAI 2020. [link](https://ojs.aaai.org//index.php/AAAI/article/view/5353)
 
-**---2019---**
+**2019**
+___
 1. **Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** *Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, Huaiyu Wan.* AAAI 2019. [link](https://ojs.aaai.org//index.php/AAAI/article/view/3881)
 1. **A Deep Reinforcement Learning Framework for Rebalancing Dockless Bike Sharing Systems.** *Ling Pan, Qingpeng Cai, Zhixuan Fang, Pingzhong Tang, Longbo Huang.* AAAI 2019. [link](https://ojs.aaai.org//index.php/AAAI/article/view/3940)
 1. **A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data.** *Chuxu Zhang, Dongjin Song, Yuncong Chen, Xinyang, Cristian Lumezanu, Wei Cheng, Jingchao Ni, Bo Zong, Haifeng Chen, Nitesh V. Chawla.* AAAI 2019. [link](https://ojs.aaai.org//index.php/AAAI/article/view/3942)
@@ -102,7 +101,8 @@ ___
 1. **Where to Go Next: A Spatio-Temporal Gated Network for Next POI Recommendation.** *Pengpeng Zhao, Haifeng Zhu, Yanchi Liu, Jiajie Xu, Zhixu Li, Fuzhen Zhuang, Victor S. Sheng, Xiaofang Zhou.* AAAI 2019. [link](https://doi.org/10.1609/aaai.v33i01.33015877)
 ## IJCAI
 
-**---2020---**
+**2020**
+___
 1. **A Spatial Missing Value Imputation Method for Multi-view Urban Statistical Data.** *Yongshun Gong, Zhibin Li, Jian Zhang, Wei Liu, Bei Chen, Xiangjun Dong.* IJCAI 2020. [link](https://www.ijcai.org/Proceedings/2020/182)
 1. **A Sequential Convolution Network for Population Flow Prediction with Explicitly Correlation Modelling.** *Jie Feng, Ziqian Lin, Tong Xia, Funing Sun, Diansheng Guo, Yong Li.* IJCAI 2020. [link](https://www.ijcai.org/Proceedings/2020/185)
 1. **Cross-Interaction Hierarchical Attention Networks for Urban Anomaly Prediction.** *Chao Huang, Chuxu Zhang, Peng Dai, Liefeng Bo.* IJCAI 2020. [link](https://www.ijcai.org/Proceedings/2020/601)
@@ -115,7 +115,8 @@ ___
 1. **Towards Alleviating Traffic Congestion: Optimal Route Planning for Massive-Scale Trips.** *Ke Li, Lisi Chen, Shuo Shang.* IJCAI 2020. [link](https://www.ijcai.org/Proceedings/2020/470)
 1. **Trajectory Similarity Learning with Auxiliary Supervision and Optimal Matching.** *Hanyuan Zhang, Xinyu Zhang, Qize Jiang, Baihua Zheng, Zhenbang Sun, Weiwei Sun, Changhu Wang.* IJCAI 2020. [link](https://www.ijcai.org/Proceedings/2020/444)
 
-**---2019---**
+**2019**
+___
 1. **AddGraph: Anomaly Detection in Dynamic Graph Using Attention-based Temporal GCN.** *Li Zheng, Zhenpeng Li, Jian Li, Zhao Li, Jun Gao.* IJCAI 2019. [link](https://www.ijcai.org/Proceedings/2019/614)
 1. **A Decomposition Approach for Urban Anomaly Detection Across Spatiotemporal Data.** *Mingyang Zhang, Tong Li, Hongzhi Shi, Yong Li , Pan Hui.* IJCAI 2019. [link](https://www.ijcai.org/Proceedings/2019/837)
 1. **Cross-City Transfer Learning for Deep Spatio-Temporal Prediction.** *Leye Wang, Xu Geng, Xiaojuan Ma, Feng Liu, Qiang Yang.* IJCAI 2019. [link](https://www.ijcai.org/Proceedings/2019/262)
@@ -126,7 +127,8 @@ ___
 1. **STG2Seq: Spatial-Temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting.** *Lei Bai, Lina Yao, Salil S. Kanhere.* IJCAI 2019. [link](https://www.ijcai.org/Proceedings/2019/274)
 1. **Travel Time Estimation without Road Networks: An Urban Morphological Layout Representation Approach.** *Wuwei Lan, Yanyan Xu, Bin Zhao.* IJCAI 2019. [link](https://www.ijcai.org/Proceedings/2019/245)
 
-**---2018---**
+**2018**
+___
 1. **A Fast and Accurate Method for Estimating People Flow from Spatiotemporal Population Data.** *Yasunori Akagi, Takuya Nishimura , Takeshi Kurashima, Hiroyuki Toda.* IJCAI 2018. [link](https://www.ijcai.org/Proceedings/2018/457)
 1. **Exploiting Graph Regularized Multi-dimensional Hawkes Processes for Modeling Events with Spatio-temporal Characteristics.** *Yanchi Liu, Tan Yan, Haifeng Chen.* IJCAI 2018. [link](https://www.ijcai.org/Proceedings/2018/343)
 1. **Estimating Latent People Flow without Tracking Individuals.** *Tomoharu Iwata, Takeshi Kurashima, Hiroyuki Toda, Naonori Ueda.* IJCAI 2018. [link](https://www.ijcai.org/Proceedings/2018/494)
@@ -139,15 +141,18 @@ ___
 1. **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** *Bing Yu, Haoteng Yin, Zhanxing Zhu.* IJCAI 2018. [link](https://www.ijcai.org/Proceedings/2018/505)
 1. **Trajectory-User Linking via Variational AutoEncoder.** *Fan Zhou, Goce Trajcevski, Ting Zhong, Fengli Zhang.* IJCAI 2018. [link](https://www.ijcai.org/Proceedings/2018/446)
 
-**---2017---**
+**2017**
+___
 1. **Identifying Human Mobility via Trajectory Embeddings.** *Fan Zhou , Kunpeng Zhang, Goce Trajcevski, Xucheng Luo, Fengli Zhang.* IJCAI 2017. [link](https://www.ijcai.org/Proceedings/2017/234)
 1. **Understanding People Lifestyles: Construction of Urban Movement Knowledge Graph from GPS Trajectory.** *Nicholas Jing Yuan, Ruihua Song, Xing Xie, Qiang Ma.* IJCAI 2017. [link](https://www.ijcai.org/Proceedings/2017/506)
 
-**---2016---**
+**2016**
+___
 1. **Urban Water Quality Prediction Based on Multi-Task Multi-View Learning.** *Ye Liu, Yu Zheng, Yuxuan Liang, Shuming Liu, David S. Rosenblum.* IJCAI 2016. [link](https://www.ijcai.org/Abstract/16/366)
 ## KDD
 
-**---2020---**
+**2020**
+___
 1. **AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction.** *Ting Li, Junbo Zhang, Kainan Bao, Yuxuan Liang, Yexin Li, Yu Zheng.* KDD 2020. [link](https://dl.acm.org/doi/10.1145/3394486.3403122)
 1. **Attention based Multi-Modal New Product Sales Time-series Forecasting.** *Vijay Ekambaram, Kushagra Manglik, Sumanta Mukherjee, Surya Shravan Kumar Sajja, Satyam Dwivedi, Vikas Raykar.* KDD 2020. [link](https://dl.acm.org/doi/10.1145/3394486.3403362)
 1. **BusTr: Predicting Bus Travel Times from Real-Time Traffic.** *Richard Barnes, Senaka Buthpitiya, James Cook, Alex Fabrikant, Andrew Tomkins, Fangzhou Xu.* KDD 2020. [link](https://dl.acm.org/doi/10.1145/3394486.3403376)
@@ -182,7 +187,8 @@ ___
 1. **Understanding the Impact of the COVID-19 Pandemic on Transportation-related Behaviors with Human Mobility Data.** *Jizhou Huang, Haifeng Wang, Miao Fan, An Zhuo, Yibo Sun, Ying Li.* KDD 2020. [link](https://dl.acm.org/doi/10.1145/3394486.3412856)
 1. **Understanding the Urban Pandemic Spreading of COVID-19 with Real World Mobility Data.** *Qianyue Hao, Lin Chen, Fengli Xu, Yong Li.* KDD 2020. [link](https://dl.acm.org/doi/10.1145/3394486.3412860)
 
-**---2019---**
+**2019**
+___
 1. **Co-prediction of multiple transportation demands based on deep spatio-temporal neural network.** *Junchen Ye, Leilei Sun, Bowen Du, Yanjie Fu, Xinran Tong, Hui Xiong.* KDD 2019. [link](https://dl.acm.org/doi/abs/10.1145/3292500.3330887)
 1. **Deepurbanevent: A system for predicting citywide crowd dynamics at big events.** *Renhe Jiang, Xuan Song, Dou Huang, Xiaoya Song, Tianqi Xia, Zekun Cai, Zhaonan Wang, Kyoung-Sook Kim, Ryosuke Shibasaki.* KDD 2019. [link](https://dl.acm.org/doi/abs/10.1145/3292500.3330654)
 1. **Deep mixture point processes: Spatio-temporal event prediction with rich contextual information.** *Maya Okawa, Tomoharu Iwata, Takeshi Kurashima, Yusuke Tanaka, Hiroyuki Toda, Naonori Ueda.* KDD 2019. [link](https://dl.acm.org/doi/abs/10.1145/3292500.3330937)
@@ -193,7 +199,8 @@ ___
 1. **Predicting dynamic embedding trajectory in temporal interaction networks.** *Srijan Kumar, Xikun Zhang, Jure Leskovec.* KDD 2019. [link](https://dl.acm.org/doi/abs/10.1145/3292500.3330895)
 1. **Urban traffic prediction from spatio-temporal data using deep meta learning.** *Zheyi Pan, Yuxuan Liang, Weifeng Wang, Yong Yu, Yu Zheng, Junbo Zhang.* KDD 2019. [link](https://dl.acm.org/doi/abs/10.1145/3292500.3330884)
 
-**---2018---**
+**2018**
+___
 1. **Dynamic bike reposition: A spatio-temporal reinforcement learning approach.** *Yexin Li, Yu Zheng, Qiang Yang.* KDD 2018. [link](http://urban-computing.com/pdf/KDD2018dynamic-bike-reposition.pdf)
 1. **Deep sequence learning with auxiliary information for traffic prediction.** *Binbing Liao, Jingqing Zhang, Chao Wu, Douglas McIlwraith, Tong Chen, Shengwen Yang, Yike Guo, Fei Wu.* KDD 2018. [link](https://dl.acm.org/doi/abs/10.1145/3219819.3219895)
 1. **Stepdeep: A novel spatial-temporal mobility event prediction framework based on deep neural network.** *Shen, Xiaodan Liang, Yufeng Ouyang, Miaofeng Liu, Weimin Zheng, Kathleen M. Carley.* KDD 2018. [link](https://dl.acm.org/doi/abs/10.1145/3219819.3219931)
@@ -202,7 +209,8 @@ ___
 1. **REST: A reference-based framework for spatio-temporal trajectory compression.** *Yan Zhao, Shuo Shang, Yu Wang, Bolong Zheng, Quoc Viet Hung Nguyen, Kai Zheng.* KDD 2018. [link](https://dl.acm.org/doi/abs/10.1145/3219819.3220030)
 1. **You are how you drive: Peer and temporal-aware representation learning for driving behavior analysis.** *Pengyang Wang, Yanjie Fu, Jiawei Zhang, Pengfei Wang, Yu Zheng, Charu C. Aggarwal.* KDD 2018. [link](https://dl.acm.org/doi/abs/10.1145/3219819.3219985)
 
-**---2017---**
+**2017**
+___
 1. **Functional zone based hierarchical demand prediction for bike system expansion.** *Junming Liu, Leilei Sun, Qiao Li, Jingci Ming, Yanchi Liu, Hui Xiong.* KDD 2017. [link](https://dl.acm.org/doi/abs/10.1145/3097983.3098180)
 1. **Human mobility synchronization and trip purpose detection with mixture of hawkes processes.** *Pengfei Wang, Yanjie Fu, Guannan Liu, Wenqing Hu, Charu C. Aggarwal.* KDD 2017. [link](https://dl.acm.org/doi/abs/10.1145/3097983.3098067)
 1. **Planning bike lanes based on sharing-bikes' trajectories.** *Jie Bao, Tianfu He, Sijie Ruan, Yanhua Li, Yu Zheng.* KDD 2017. [link](https://dl.acm.org/doi/abs/10.1145/3097983.3098056)
@@ -210,7 +218,8 @@ ___
 1. **The simpler the better: a unified approach to predicting original taxi demands based on large-scale online platforms.** *Yongxin Tong, Yuqiang Chen, Zimu Zhou, Lei Chen, Jie Wang, Qiang Yang, Jieping Ye, Weifeng Lv.* KDD 2017. [link](https://dl.acm.org/doi/abs/10.1145/3097983.3098018)
 1. **Triovecevent: Embedding-based online local event detection in geo-tagged tweet streams.** *Chao Zhang, Liyuan Liu, Dongming Lei, Quan Yuan, Honglei Zhuang, Tim Hanratty, Jiawei Han.* KDD 2017. [link](https://dl.acm.org/doi/abs/10.1145/3097983.3098027)
 
-**---2016---**
+**2016**
+___
 1. **Hierarchical incomplete multi-source feature learning for spatiotemporal event forecasting.** *Liang Zhao, Jieping Ye, Feng Chen, Chang-Tien Lu, Naren Ramakrishnan.* KDD 2016. [link](https://dl.acm.org/doi/abs/10.1145/2939672.2939847)
 1. **Latent space model for road networks to predict time-varying traffic.** *Prithu Banerjee, Pranali Yawalkar, Sayan Ranu.* KDD 2016. [link](https://dl.acm.org/doi/abs/10.1145/2939672.2939860)
 1. **Mantra: a scalable approach to mining temporally anomalous sub-trajectories.** *BANERJEE, Prithu, YAWALKAR, Pranali y RANU, Sayan.* KDD 2016. [link](https://dl.acm.org/doi/abs/10.1145/2939672.2939846)
@@ -218,7 +227,8 @@ ___
 1. **Unified point-of-interest recommendation with temporal interval assessment.** *Yanchi Liu, Chuanren Liu, Bin Liu, Meng Qu, Hui Xiong.* KDD 2016. [link](https://dl.acm.org/doi/abs/10.1145/2939672.2939773)
 ## CIKM
 
-**---2020---**
+**2020**
+___
 1. **A Reproducibility Study of Deep and Surface Machine Learning Methods for Human-related Trajectory Prediction.** *Bardh Prenkaj, Paola Velardi, Damiano Distante, Stefano Faralli.* CIKM 2020. [link](https://dl.acm.org/doi/10.1145/3340531.3412088)
 1. **A Joint Inverse Reinforcement Learning and Deep Learning Model for Drivers' Behavioral Prediction.** *Guojun Wu, Yanhua Li, Shikai Luo, Ge Song, Qichao Wang, Jing He, Jieping Ye, Xiaohu Qie, Hongtu Zhu.* CIKM 2020. [link](https://dl.acm.org/doi/10.1145/3340531.3412682)
 1. **Deep Spatio-Temporal Multiple Domain Fusion Network for Urban Anomalies Detection.** *Ruiqiang Liu, Shuai Zhao, Bo Cheng, Hao Yang, Haina Tang, Taoyu Li.* CIKM 2020. [link](https://dl.acm.org/doi/10.1145/3340531.3411920)
@@ -239,7 +249,8 @@ ___
 1. **Spatial-Temporal Convolutional Graph Attention Networks for Citywide Traffic Flow Forecasting.** *Xiyue Zhang, Chao Huang, Yong Xu, Lianghao Xia.* CIKM 2020. [link](https://dl.acm.org/doi/10.1145/3340531.3411941)
 1. **You Are How You Use: Catching Gas Theft Suspects among Diverse Restaurant Users.** *Xiaodu Yang, Xiuwen Yi, Shun Chen, Sijie Ruan, Junbo Zhang, Yu Zheng, Tianrui Li.* CIKM 2020. [link](https://dl.acm.org/doi/10.1145/3340531.3412751)
 
-**---2019---**
+**2019**
+___
 1. **CityTraffic: Modeling Citywide Traffic via Neural Memorization and Generalization Approach.** *Xiuwen Yi, Zhewen Duan, Ting Li, Tianrui Li, Junbo Zhang, Yu Zheng.* CIKM 2019. [link](https://dl.acm.org/doi/10.1145/3357384.3357822)
 1. **DeepIST: Deep Image-based Spatio-Temporal Network for Travel Time Estimation.** *Tao-Yang Fu, Wang-Chien Lee.* CIKM 2019. [link](https://dl.acm.org/doi/10.1145/3357384.3357870)
 1. **Exploring The Interaction Effects for Temporal Spatial Behavior Prediction.** *Huan Yang, Tianyuan Liu, Yuqing Sun, Elisa Bertino.* CIKM 2019. [link](https://dl.acm.org/doi/10.1145/3357384.3357963)
@@ -255,32 +266,38 @@ ___
 1. **Temporal network embedding with micro-and macro-dynamics.** *Yuanfu Lu, Xiao Wang, Chuan Shi, Philip S. Yu, Yanfang Ye.* CIKM 2019. [link](https://doi.org/10.1145/3357384.3357943)
 1. **Unsupervised Representation Learning of Spatial Data via Multimodal Embedding.** *Porter Jenkins, Ahmad Farag, Suhang Wang, Zhenhui Li.* CIKM 2019. [link](https://dl.acm.org/doi/10.1145/3357384.3358001)
 
-**---2018---**
+**2018**
+___
 1. **Ontop-temporal: A Tool for Ontology-based Query Answering over Temporal Data.** *Elem Güzel Kalayci, Guohui Xiao, Vladislav Ryzhikov, Tahir Emre Kalayci, Diego Calvanese.* CIKM 2018. [link](https://dl.acm.org/doi/10.1145/3269206.3269230)
 1. **Traffic-cascade: Mining and visualizing lifecycles of traffic congestion events using public bus trajectories.** *Agus Trisnajaya Kwee, Meng-Fen Chiang, Philips Kokoh Prasetyo, Ee-Peng Lim.* CIKM 2018. [link](https://dl.acm.org/doi/10.1145/3269206.3269216)
 1. **Tequila: Temporal question answering over knowledge bases.** *Zhen Jia, Abdalghani Abujabal, Rishiraj Saha Roy, Jannik Strötgen, Gerhard Weikum.* CIKM 2018. [link](https://arxiv.org/abs/1908.03650)
 
-**---2017---**
+**2017**
+___
 1. **Destination-aware task assignment in spatial crowdsourcing.** *Yan Zhao, Yang Li, Yu Wang, Han Su, Kai Zheng.* CIKM 2017. [link](https://dl.acm.org/doi/10.1145/3132847.3132894)
 1. **Spatial crowdsourcing: Challenges, techniques, and applications.** *Yongxin Tong, Lei Chen, Cyrus Shahabi.* CIKM 2017. [link](http://www.vldb.org/pvldb/vol10/p1988-tong.pdf)
 1. **Urbanity: A System for Interactive Exploration of Urban Dynamics from Streaming Human Sensing Data.** *Mengxiong Liu, Zhengchao Liu, Chao Zhang, Keyang Zhang, Quan Yuan, Tim Hanratty, Jiawei Han.* CIKM 2017. [link](https://dl.acm.org/doi/10.1145/3132847.3133177)
 ## ICDM
 
-**---2019---**
+**2019**
+___
 1. **Boosted trajectory calibration for traffic state estimation.** *Xitong Zhang, Liyang Xie, Zheng Wang, Jiayu Zhou.* ICDM 2019. [link](https://ieeexplore.ieee.org/abstract/document/8970880)
 1. **Spatio-temporal GRU for trajectory classification.** *Hongbin Liu, Hao Wu, Weiwei Sun, Ickjai Lee.* ICDM 2019. [link](https://ieeexplore.ieee.org/abstract/document/8970798)
 
-**---2018---**
+**2018**
+___
 1. **An integrated model for crime prediction using temporal and spatial factors.** *Fei Yi, Zhiwen Yu, Fuzhen Zhuang, Xiao Zhang, Hui Xiong.* ICDM 2018. [link](https://ieeexplore.ieee.org/abstract/document/8594999)
 1. **Exploiting spatio-temporal correlations with multiple 3d convolutional neural networks for citywide vehicle flow prediction.** *Cen Chen, Kenli Li, Sin G. Teo, Guizi Chen, Xiaofeng Zou, Xulei Yang, Ramaseshan C. Vijay, Jiashi Feng, Zeng Zeng.* ICDM 2018. [link](https://ieeexplore.ieee.org/abstract/document/8594916)
 1. **Next point-of-interest recommendation with temporal and multi-level context attention.** *Ranzhen Li, Yanyan Shen, Yanmin Zhu.* ICDM 2018. [link](https://ieeexplore.ieee.org/abstract/document/8594953)
 1. **Outlier detection in urban traffic flow distributions.** *Youcef Djenouri, Arthur Zimek, Marco Chiarandini.* ICDM 2018. [link](https://ieeexplore.ieee.org/abstract/document/8594923)
 
-**---2017---**
+**2017**
+___
 1. **Situation aware multi-task learning for traffic prediction.** *Dingxiong Deng, Cyrus Shahabi, Ugur Demiryurek, Linhong Zhu.* ICDM 2017. [link](https://ieeexplore.ieee.org/abstract/document/8215480)
 1. **Stexnmf: Spatio-temporally exclusive topic discovery for anomalous event detection.** *Dear Sungbok Shin, Minsuk Choi, Jinho Choi, Scott Langevin, Christopher Bethune, Philippe Horne, Nathan Kronenfeld, Ramakrishnan Kannan, Barry L. Drake, Haesun Park, Jaegul Choo.* ICDM 2017. [link](https://ieeexplore.ieee.org/abstract/document/8215516)
 
-**---2016---**
+**2016**
+___
 1. **Multi-resolution spatial event forecasting in social media.** *Liang Zhao, Feng Chen, Chang-Tien Lu, Naren Ramakrishnan.* ICDM 2016. [link](https://ieeexplore.ieee.org/abstract/document/7837893/references#references)
 1. **POI recommendation: A temporal matching between POI popularity and user regularity.** *Zijun Yao, Yanjie Fu, Bin Liu, Yanchi Liu, Hui Xiong.* ICDM 2016. [link](https://ieeexplore.ieee.org/abstract/document/7837879)
 1. **Traffic speed prediction and congestion source exploration: A deep learning method.** *Jingyuan Wang, Qian Gu, Junjie Wu, Guannan Liu, Zhang Xiong.* ICDM 2016. [link](https://ieeexplore.ieee.org/abstract/document/7837874)
