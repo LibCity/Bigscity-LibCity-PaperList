@@ -1,16 +1,37 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+  - [Surveys](#surveys)
+  - [AAAI](#aaai)
+  - [IJCAI](#ijcai)
+  - [KDD](#kdd)
+  - [CIKM](#cikm)
+  - [ICDM](#icdm)
+  - [WWW](#www)
+  - [NIPS](#nips)
+  - [ICLR](#iclr)
+  - [SIGSPATIAL](#sigspatial)
+  - [IEEE TKDE](#ieee-tkde)
+  - [ACM TIST](#acm-tist)
+  - [Others](#others)
+
 ## Surveys
-**---2020---**
+
+**2020**
+
+___
 1. **A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges.** *David Alexander Tedjopurnomo, Zhifeng Bao, Baihua Zheng, Farhana Choudhury, AK Qin.* IEEE TKDE 2020. [link](https://ieeexplore.ieee.org/abstract/document/9112608)
 1. **A Comprehensive Survey on Traffic Prediction.** *Xueyan Yin, Genze Wu, Jinze Wei, Yanming Shen, Heng Qi, Baocai Yin.* arXiv 2020. [link](https://arxiv.org/abs/2004.08555)
 1. **How to Build a Graph-Based Deep Learning Architecture in Traffic Domain: A Survey.** *Jiexia Ye, Juanjuan Zhao, Kejiang Ye, Chengzhong Xu.* IEEE Transactions on Intelligent Transportation Systems 2020. [link](https://arxiv.org/abs/2005.11691)
 1. **Urban flow prediction from spatiotemporal data using machine learning: A survey.** *Peng Xie, Tianrui Li, Jia Liu, Shengdong Du, Xin Yang, Junbo Zhang.* Information Fusion 2020. [link](https://linkinghub.elsevier.com/retrieve/pii/S1566253519303094)
 1. **Urban big data fusion based on deep learning: An overview.** *Jia Liu, Tianrui Li, Peng Xie, Shengdong Du, Fei Teng, Xin Yang.* Information Fusion 2020. [link](https://linkinghub.elsevier.com/retrieve/pii/S1566253519301393)
 
-**---2019---**
+**2019**
+___
 1. **Big data analytics in intelligent transportation systems: A survey.** *Li Zhu, Fei Richard Yu, Yige Wang, Bin Ning, Tao Tang.* IEEE Transactions on Intelligent Transportation Systems 2019. [link](https://ieeexplore.ieee.org/abstract/document/8344848)
 1. **Deep Learning for Spatio-Temporal Data Mining: A Survey.** *Senzhang Wang, Jiannong Cao, and Philip S. Yu.* IEEE Transactions on Knowledge and Data Engineering 2019. [link](https://arxiv.org/pdf/1906.04928.pdf)
 
-**---2018---**
+**2018**
+___
 1. **Spatio-temporal data mining: A survey of problems and methods.** *Atluri, Gowtham, Anuj Karpatne, and Vipin Kumar.* ACM Computing Surveys 2018. [link](https://dl.acm.org/doi/pdf/10.1145/3161602)
 1. **Survey on traffic prediction in smart cities.** *Attila M Nagy, Vilmos Simon.* Pervasive and Mobile Computing 2018. [link](https://www.sciencedirect.com/science/article/abs/pii/S1574119217306521)
 ## AAAI
@@ -263,3 +284,10 @@
 1. **Multi-resolution spatial event forecasting in social media.** *Liang Zhao, Feng Chen, Chang-Tien Lu, Naren Ramakrishnan.* ICDM 2016. [link](https://ieeexplore.ieee.org/abstract/document/7837893/references#references)
 1. **POI recommendation: A temporal matching between POI popularity and user regularity.** *Zijun Yao, Yanjie Fu, Bin Liu, Yanchi Liu, Hui Xiong.* ICDM 2016. [link](https://ieeexplore.ieee.org/abstract/document/7837879)
 1. **Traffic speed prediction and congestion source exploration: A deep learning method.** *Jingyuan Wang, Qian Gu, Junjie Wu, Guannan Liu, Zhang Xiong.* ICDM 2016. [link](https://ieeexplore.ieee.org/abstract/document/7837874)
+## WWW
+## NIPS
+## ICLR
+## SIGSPATIAL
+## IEEE TKDE
+## ACM TIST
+## Others
