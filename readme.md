@@ -1,4 +1,5 @@
 # Traffic Prediction Paper Collection
+
 In the paper collection, we collected traffic prediction papers published in the recent years (2016-now) on 11 top conferences and journals, namely, AAAI, IJCAI, KDD, CIKM, ICDM, WWW, NIPS, ICLR, SIGSPATIAL, IEEE TKDE and IEEE TITS. In addition, the surveys since 2016 and representative papers mentioned in the surveys are also included. We will continue to update the collection.
 - [Traffic Prediction Paper Collection](#traffic-prediction-paper-collection)
   - [Surveys](#surveys)
@@ -14,6 +15,7 @@ In the paper collection, we collected traffic prediction papers published in the
   - [IEEE TKDE](#ieee-tkde)
   - [IEEE TITS](#ieee-tits)
   - [Others](#others)
+- [Contributors](#Contributors)
 ## Surveys
 **2021**
 ___
@@ -575,3 +577,11 @@ ___
 ___
 1. **A Unified Point-of-Interest Recommendation Framework in Location-Based Social Networks.** *Chen Cheng, Haiqin Yang, Irwin King, Michael R. Lyu.* ACM TIST 2016. [link](https://dl.acm.org/doi/10.1145/2901299)
 1. **Location Prediction: A Temporal-Spatial Bayesian Model.** *Yantao Jia, Yuanzhuo Wang, Xiaolong Jin, Xueqi Cheng.* ACM TIST 2016. [link](https://dl.acm.org/doi/10.1145/2816824)
+
+# Contributors
+
+These contributors to this project, we will continue to update the collection.
+
+<a href="https://github.com/WenMellors"><img src="https://avatars.githubusercontent.com/u/33283819?v=4" width=98px></img></a> <a href="https://github.com/aptx1231"><img src="https://avatars.githubusercontent.com/u/35984903?v=4" width=98px></img></a> <a href="https://github.com/NickHan-cs"><img src="https://avatars.githubusercontent.com/u/59010369?v=4" width=98px></img></a> <a href="https://github.com/XBR-1111"><img src="https://avatars.githubusercontent.com/u/59074275?v=4" width=98px></img></a> 
+
+
