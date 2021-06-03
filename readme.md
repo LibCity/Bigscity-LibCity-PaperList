@@ -1,5 +1,5 @@
 # Traffic Prediction Paper Collection
-In the paper collection, we collected traffic prediction papers published in the recent years (2016-now) on 11 top conferences and journals, namely, AAAI, IJCAI, KDD, CIKM, ICDM, WWW, NIPS, ICLR, SIGSPATIAL, IEEE TKDE and IEEE TITS. In addition, the surveys since 2016 and representative papers mentioned in the surveys are also included.
+In the paper collection, we collected traffic prediction papers published in the recent years (2016-now) on 11 top conferences and journals, namely, AAAI, IJCAI, KDD, CIKM, ICDM, WWW, NIPS, ICLR, SIGSPATIAL, IEEE TKDE and IEEE TITS. In addition, the surveys since 2016 and representative papers mentioned in the surveys are also included. We will continue to update the collection.
 - [Traffic Prediction Paper Collection](#traffic-prediction-paper-collection)
   - [Surveys](#surveys)
   - [AAAI](#aaai)
