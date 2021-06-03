@@ -580,7 +580,7 @@ ___
 
 # Contributors
 
-These contributors to this project, we will continue to update the collection.
+There are contributors to this paper collection, we will continue to update it.
 
 <a href="https://github.com/WenMellors"><img src="https://avatars.githubusercontent.com/u/33283819?v=4" width=98px></img></a> <a href="https://github.com/aptx1231"><img src="https://avatars.githubusercontent.com/u/35984903?v=4" width=98px></img></a> <a href="https://github.com/NickHan-cs"><img src="https://avatars.githubusercontent.com/u/59010369?v=4" width=98px></img></a> <a href="https://github.com/XBR-1111"><img src="https://avatars.githubusercontent.com/u/59074275?v=4" width=98px></img></a> 
 
