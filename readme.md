@@ -15,7 +15,7 @@ In the paper collection, we collected traffic prediction papers published in the
   - [IEEE TKDE](#ieee-tkde)
   - [IEEE TITS](#ieee-tits)
   - [Others](#others)
-- [Contributors](#Contributors)
+- [Contributors](#contributors)
 ## Surveys
 **2021**
 ___
@@ -58,8 +58,6 @@ ___
 1. **Temporal Pyramid Network for Pedestrian Trajectory Prediction with Multi-Supervision.** *Rongqin Liang, Yuanman Li, Xia Li, Yi Tang, Jiantao Zhou, Wenbin Zou.* AAAI 2021. [link](https://ojs.aaai.org/index.php/AAAI/article/view/16299)
 1. **Community-Aware Multi-Task Transportation Demand Prediction.** *Hao Liu, Qiyu Wu, Fuzhen Zhuang, Xinjiang Lu, Dejing Dou, Hui Xiong.* AAAI 2021. [link](https://ojs.aaai.org/index.php/AAAI/article/view/16107)
 1. **Modeling Heterogeneous Relations across Multiple Modes for Potential Crowd Flow Prediction.** *Qiang Zhou, Jingjing Gu, Xinjiang Lu, Fuzhen Zhuang, Yanchao Zhao, Qiuhong Wang, Xiao Zhang.* AAAI 2021. [link](https://arxiv.org/abs/2101.06954)
-1. **Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting.** *Mengzhang Li, Zhanxing Zhu.* AAAI 2021. [link](https://arxiv.org/abs/2012.09641)
-1. **Traffic Flow Forecasting with Spatial-Temporal Graph Diffusion Network.** *Xiyue Zhang, Chao Huang, Yong Xu, Lianghao Xia, Peng Dai, Liefeng Bo, Junbo Zhang, Yu Zheng.* AAAI 2021. [link](https://ojs.aaai.org/index.php/AAAI/article/view/17761)
 
 **2020**
 ___
@@ -88,7 +86,6 @@ ___
 1. **A Deep Reinforcement Learning Framework for Rebalancing Dockless Bike Sharing Systems.** *Ling Pan, Qingpeng Cai, Zhixuan Fang, Pingzhong Tang, Longbo Huang.* AAAI 2019. [link](https://ojs.aaai.org//index.php/AAAI/article/view/3940)
 1. **Preference-Aware Task Assignment in On-Demand Taxi Dispatching: An Online Stable Matching Approach.** *Boming Zhao, Pan Xu, Yexuan Shi, Yongxin Tong, Zimu Zhou, Yuxiang Zeng.* AAAI 2019. [link](https://ojs.aaai.org//index.php/AAAI/article/view/4060)
 1. **Preference-Aware Task Assignment in Spatial Crowdsourcing.** *Yan Zhao, Jinfu Xia, Guanfeng Liu, Han Su, Defu Lian, Shuo Shang, Kai Zheng.* AAAI 2019. [link](https://ojs.aaai.org//index.php/AAAI/article/view/4111)
-1. **Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction.** *Huaxiu Yao, Xianfeng Tang, Hua Wei, Guanjie Zheng, Zhenhui Li.* AAAI 2019. [link](https://doi.org/10.1609/aaai.v33i01.33015668)
 1. **Spatiotemporal Multi-Graph Convolution Network for Ride-Hailing Demand Forecasting.** *Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu.* AAAI 2019. [link](https://ojs.aaai.org//index.php/AAAI/article/view/4247)
 1. **Where to Go Next: A Spatio-Temporal Gated Network for Next POI Recommendation.** *Pengpeng Zhao, Haifeng Zhu, Yanchi Liu, Jiajie Xu, Zhixu Li, Fuzhen Zhuang, Victor S. Sheng, Xiaofang Zhou.* AAAI 2019. [link](https://doi.org/10.1609/aaai.v33i01.33015877)
 1. **A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data.** *Chuxu Zhang, Dongjin Song, Yuncong Chen, Xinyang, Cristian Lumezanu, Wei Cheng, Jingchao Ni, Bo Zong, Haifeng Chen, Nitesh V. Chawla.* AAAI 2019. [link](https://ojs.aaai.org//index.php/AAAI/article/view/3942)
@@ -111,7 +108,6 @@ ___
 1. **DeepUrbanMomentum: An Online Deep-Learning System for Short-Term Urban Mobility Prediction.** *Renhe Jiang, Xuan Song, Zipei Fan, Tianqi Xia, Quanjun Chen, Satoshi Miyazawa, Ryosuke Shibasaki.* AAAI 2018. [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16499)
 1. **Predicting Vehicular Travel Times by Modeling Heterogeneous Influences Between Arterial Roads.** *Avinash Achar, Venkatesh Sarangan, Rohith Regikumar, Anand Sivasubramaniam.* AAAI 2018. [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16372)
 1. **When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks.** *Dong Wang, Junbo Zhang, Wei Cao, Jian Li, Yu Zheng.* AAAI 2018. [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16657)
-1. **Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction.** *Huaxiu Yao, Fei Wu, Jintao Ke, Xianfeng Tang, Yitian Jia, Siyu Lu, Pinghua Gong, Jieping Ye, Zhenhui Li.* AAAI 2018. [link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16069)
 
 **2017**
 ___
@@ -134,6 +130,7 @@ ___
 1. **LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks.** *Rongzhou Huang, Chuyin Huang, Yubao Liu, Genan Dai, Weiyang Kong.* IJCAI 2020. [link](https://www.ijcai.org/Proceedings/2020/326)
 1. **MaCAR: Urban Traffic Light Control via Active Multi-agent Communication and Action Rectification.** *Zhengxu Yu, Shuxian Liang, Long Wei, Zhongming Jin, Jianqiang Huang, Deng Cai, Xiaofei He, Xian-Sheng Hua.* IJCAI 2020. [link](https://www.ijcai.org/Proceedings/2020/345)
 1. **Trajectory Similarity Learning with Auxiliary Supervision and Optimal Matching.** *Hanyuan Zhang, Xinyu Zhang, Qize Jiang, Baihua Zheng, Zhenbang Sun, Weiwei Sun, Changhu Wang.* IJCAI 2020. [link](https://www.ijcai.org/Proceedings/2020/444)
+1. **Location Prediction over Sparse User Mobility Traces Using RNNs: Flashback in Hidden States!.** *Dingqi Yang, Benjamin Fankhauser, Paolo Rosso, and Philippe Cudre-Mauroux.* IJCAI 2020. [link](https://www.ijcai.org/proceedings/2020/302)
 
 **2019**
 ___
@@ -187,7 +184,6 @@ ___
 1. **Improving Movement Predictions of Traffic Actors in Bird's-Eye View Models using GANs and Differentiable Trajectory Rasterization.** *Eason Wang, Henggang Cui, Sai Yalamanchi, Mohana Moorthy, Nemanja Djuric.* KDD 2020. [link](https://dl.acm.org/doi/10.1145/3394486.3403283)
 1. **Learning Effective Road Network Representation with Hierarchical Graph Neural Networks.** *Ning Wu, Wayne Xin Zhao, Jingyuan Wang, Dayan Pan.* KDD 2020. [link](https://dl.acm.org/doi/10.1145/3394486.3403043)
 1. **ST-SiameseNet: Spatio-Temporal Siamese Networks for Human Mobility Signature Identification.** *Huimin Ren, Menghai Pan, Yanhua Li, Xun Zhou, Jun Luo.* KDD 2020. [link](https://dl.acm.org/doi/10.1145/3394486.3403183)
-1. **BusTr: Predicting Bus Travel Times from Real-Time Traffic.** *Richard Barnes, Senaka Buthpitiya, James Cook, Alex Fabrikant, Andrew Tomkins, Fangzhou Xu.* KDD 2020. [link](https://dl.acm.org/doi/10.1145/3394486.3403376)
 1. **ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps.** *Xiaomin Fang, Jizhou Huang, Fan Wang, Lingke Zeng, Haijin Liang, Haifeng Wang.* KDD 2020. [link](https://dl.acm.org/doi/10.1145/3394486.3403320)
 1. **CompactETA: A Fast Inference System for Travel Time Prediction.** *Kun Fu, Fanlin Meng, Jieping Ye, Zheng Wang.* KDD 2020. [link](https://dl.acm.org/doi/10.1145/3394486.3403386)
 1. **Doing in One Go: Delivery Time Inference Based on Couriers' Trajectories.** *Sijie Ruan, Zi Xiong, Cheng Long, Yiheng Chen, Jie Bao, Tianfu He, Ruiyuan Li, Shengnan Wu, Zhongyuan Jiang, Yu Zheng.* KDD 2020. [link](https://dl.acm.org/doi/10.1145/3394486.3403332)
@@ -331,6 +327,10 @@ ___
 1. **Regularized Content-Aware Tensor Factorization Meets Temporal-Aware Location Recommendation.** *Defu Lian, Zhenyu Zhang, Yong Ge, Fuzheng Zhang, Nicholas Jing Yuan, Xing Xie.* ICDM 2016. [link](https://ieeexplore.ieee.org/document/7837944)
 1. **POI Recommendation: A Temporal Matching between POI Popularity and User Regularity.** *Zijun Yao, Yanjie Fu, Bin Liu, Yanchi Liu, Hui Xiong.* ICDM 2016. [link](https://ieeexplore.ieee.org/abstract/document/7837879)
 ## WWW
+**2021**
+___
+1. **STAN: Spatio-Temporal Attention Network for Next Location Recommendation.** *Yingtao Luo, Qiang Liu, and Zhaocheng Liu.* WWW 2021. [link](https://arxiv.org/abs/2102.04095)
+
 **2020**
 ___
 1. **Traffic Flow Prediction via Spatial Temporal Graph Neural Network.** *Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, Jian Yu.* WWW 2020. [link](https://dl.acm.org/doi/10.1145/3366423.3380186)
@@ -341,7 +341,6 @@ ___
 1. **Mining Points-of-Interest for Explaining Urban Phenomena: A Scalable Variational Inference Approach.** *Christof Naumzik, Patrick Zoechbauer, Stefan Feuerriegel.* WWW 2020. [link](https://dl.acm.org/doi/10.1145/3366423.3380298)
 1. **Next Point-of-Interest Recommendation on Resource-Constrained Mobile Devices.** *Qinyong Wang, Hongzhi Yin, Tong Chen, Zi Huang, Hao Wang, Yanchang Zhao, Nguyen Quoc Viet Hung.* WWW 2020. [link](https://dl.acm.org/doi/10.1145/3366423.3380170)
 1. **A Category-Aware Deep Model for Successive POI Recommendation on Sparse Check-in Data.** *Fuqiang Yu, Lizhen Cui, Wei Guo, Xudong Lu, Qingzhong Li, Hua Lu.* WWW 2020. [link](https://dl.acm.org/doi/10.1145/3366423.3380202)
-1. **Mining Points-of-Interest for Explaining Urban Phenomena: A Scalable Variational Inference Approach.** *Christof Naumzik, Patrick Zoechbauer, Stefan Feuerriegel.* WWW 2020. [link](https://dl.acm.org/doi/10.1145/3366423.3380298)
 
 **2019**
 ___
@@ -389,8 +388,7 @@ ___
 
 **2020**
 ___
-1. **Diverse Trajectory Forecasting with Determinantal Point Processes.** *Ye Yuan
-, Kris M. Kitani.* ICLR 2020. [link](https://openreview.net/forum?id=ryxnY3NYPS)
+1. **Diverse Trajectory Forecasting with Determinantal Point Processes .** *Ye Yuan, Kris M. Kitani.* ICLR 2020. [link](https://openreview.net/forum?id=ryxnY3NYPS)
 
 **2018**
 ___
@@ -551,8 +549,7 @@ ___
 ## Others
 **2020**
 ___
-1. **A Spatio-Temporal Spot-Forecasting Framework for Urban Traffic Prediction.** *Rodrigo de Medrano, José L. Aznarte.* arXiv 2020. [link](https://arxiv.org/abs/2003.13977)
-1. **STAN: Spatio-Temporal Attention Network for Next Location Recommendation.** *Yingtao Luo, Qiang Liu, and Zhaocheng Liu.* arXiv 2020. [link](https://arxiv.org/abs/2102.04095)
+1. **A spatio-temporal attention-based spot-forecasting framework for urban traffic prediction.** *Rodrigo de Medrano, José L. Aznarte.* Applied Soft Computing 2020. [link](https://www.sciencedirect.com/science/article/abs/pii/S1568494620305536)
 1. **ST-MGAT: Spatial-Temporal Multi-Head Graph Attention Networks for Traffic Forecasting.** *Kelang Tian; Jingjie Guo; Kejiang Ye; Cheng-Zhong Xu.* IEEE ICTAI 2020. [link](https://ieeexplore.ieee.org/abstract/document/9288309/)
 1. **Multi-STGCnet: A Graph Convolution Based Spatial-Temporal Framework for Subway Passenger Flow Forecasting.** *Jiexia Ye; Juanjuan Zhao; Kejiang Ye; Chengzhong Xu.* IEEE IJCNN 2020. [link](https://ieeexplore.ieee.org/abstract/document/9207049)
 1. **Multi-graph convolutional network for short-term passenger flow forecasting in urban rail transit.** *Jinlei Zhang; Feng Chen; Yinan Guo; Xiaohong Li .* IET ITS 2020. [link](https://digital-library.theiet.org/content/journals/10.1049/iet-its.2019.0873)
