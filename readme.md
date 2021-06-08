@@ -21,6 +21,7 @@ In the paper collection, we collected traffic prediction papers published in the
 ___
 1. **Graph Neural Network for Traffic Forecasting: A Survey.** *Weiwei Jiang, Jiayun Luo.* arXiv 2021. [link](https://arxiv.org/abs/2101.11174)
 1. **Short-term Traffic Prediction with Deep Neural Networks: A Survey.** *Kyungeun Lee; Moonjung Eo; Euna Jung; Yoonjin Yoon; Wonjong Rhee.* IEEE Access 2021. [link](https://ieeexplore.ieee.org/abstract/document/9395529)
+1. **A Survey on Trajectory Data Management, Analytics, and Learning.** *Sheng Wang, Zhifeng Bao, J. Shane Culpepper, Gao Cong.* ACM Computing Surveys 2021. [link](https://dl.acm.org/doi/10.1145/3440207)
 
 **2020**
 ___
