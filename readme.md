@@ -16,6 +16,7 @@ In the paper collection, we collected traffic prediction papers published in the
   - [IEEE TITS](#ieee-tits)
   - [Others](#others)
 - [Contributors](#contributors)
+- [Cite](#cite)
 ## Surveys
 **2021**
 ___
