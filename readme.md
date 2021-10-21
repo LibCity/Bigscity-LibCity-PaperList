@@ -582,4 +582,21 @@ There are contributors to this paper collection, we will continue to update it.
 
 <a href="https://github.com/WenMellors"><img src="https://avatars.githubusercontent.com/u/33283819?v=4" width=98px></img></a> <a href="https://github.com/aptx1231"><img src="https://avatars.githubusercontent.com/u/35984903?v=4" width=98px></img></a> <a href="https://github.com/NickHan-cs"><img src="https://avatars.githubusercontent.com/u/59010369?v=4" width=98px></img></a> <a href="https://github.com/XBR-1111"><img src="https://avatars.githubusercontent.com/u/59074275?v=4" width=98px></img></a> 
 
+# Cite
+
+Our paper is accepted by ACM SIGSPATIAL 2021. If you find LibCity useful for your research or development, please cite our [paper](https://libcity.ai/#/LibCity-An-Open-Library-For-Traffic-Prediction).
+
+```
+@proceedings{libcity,
+  editor={Jingyuan Wang and Jiawei Jiang and Wenjun Jiang and Chao Li and Wayne Xin Zhao},
+  title={LibCity: An Open Library for Traffic Prediction},
+  booktitle={{SIGSPATIAL} '21: 29th International Conference on Advances in Geographic Information Systems, Beijing, China, November 2-5, 2021 },
+  publisher={{ACM}},
+  year={2021}
+}
+```
+
+```
+Jingyuan Wang, Jiawei Jiang, Wenjun Jiang, Chao Li, and Wayne Xin Zhao. 2021. LibCity: An Open Library for Traffic Prediction. In Proceedings of the 29th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. 
+```
 
