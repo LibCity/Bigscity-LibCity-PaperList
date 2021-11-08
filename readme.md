@@ -585,7 +585,7 @@ There are contributors to this paper collection, we will continue to update it.
 
 # Cite
 
-Our paper is accepted by ACM SIGSPATIAL 2021. If you find LibCity useful for your research or development, please cite our [paper](https://dl.acm.org/doi/10.1145/3474717.3483923)).
+Our paper is accepted by ACM SIGSPATIAL 2021. If you find LibCity useful for your research or development, please cite our [paper](https://dl.acm.org/doi/10.1145/3474717.3483923).
 
 ```
 @inproceedings{10.1145/3474717.3483923,
