@@ -131,7 +131,7 @@ ___
 ## IJCAI
 **2021**
 ___
-1. **Multimodal Transformer Networks for Pedestrian Trajectory Prediction.** *Ziyi Yin, Ruijin Liu, Zhiliang Xiong, Zejian Yuan.* IJCAI 2021. [link](https://github.com/ericyinyzy/MTN trajectory)
+1. **Multimodal Transformer Networks for Pedestrian Trajectory Prediction.** *Ziyi Yin, Ruijin Liu, Zhiliang Xiong, Zejian Yuan.* IJCAI 2021. [link](https://www.ijcai.org/proceedings/2021/0174.pdf)
 1. **Objective-aware Traffic Simulation via Inverse Reinforcement Learning.** *Guanjie Zheng, Hanyang Liu, Kai Xu, Zhenhui Li.* IJCAI 2021. [link](https://arxiv.org/abs/2105.09560)
 1. **Incorporating Queueing Dynamics into Schedule-Driven Traffic Control.** *Hsu-Chieh Hu, Allen M. Hawkes, Stephen F. Smith.* IJCAI 2021. [link](https://cedrichu.github.io/files/qdelay.pdf)
 1. **Alleviating Road Traffic Congestion with Artificial Intelligence.** *Guni Sharon.* IJCAI 2021. [link](https://people.engr.tamu.edu/guni/Papers/IJCAI-transportation.pdf)
