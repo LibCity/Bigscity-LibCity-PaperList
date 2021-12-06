@@ -366,8 +366,10 @@ ___
 ___
 1. **Variable Interval Time Sequence Modeling for Career Trajectory Prediction: Deep Collaborative Perspective.** *Chao Wang, Hengshu Zhu, Qiming Hao, Keli Xiao, Hui Xiong.* WWW 2021.
 1. **STAN: Spatio-Temporal Attention Network for Next Location Recommendation.** *Yingtao Luo, Qiang Liu, and Zhaocheng Liu.* WWW 2021. [link](https://arxiv.org/abs/2102.04095)
+1. **DF-TAR: A Deep Fusion Network for Citywide Traffic Accident Risk Prediction with Dangerous Driving Behavior.** *Patara Trirat, Jae-Gil Lee.* WWW 2021. [link](https://dl.acm.org/doi/10.1145/3442381.3450003)
 
 **2020**
+
 ___
 1. **Next Point-of-Interest Recommendation on Resource-Constrained Mobile Devices.** *Qinyong Wang, Hongzhi Yin, Tong Chen, Zi Huang, Hao Wang, Yanchang Zhao, Nguyen Quoc Viet Hung.* WWW 2020. [link](https://dl.acm.org/doi/10.1145/3366423.3380170)
 1. **Traffic Flow Prediction via Spatial Temporal Graph Neural Network.** *Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, Jian Yu.* WWW 2020. [link](https://dl.acm.org/doi/10.1145/3366423.3380186)
