@@ -1,6 +1,6 @@
 # Traffic Prediction Paper Collection
 
-In the paper collection, we collected traffic prediction papers published in the recent years (2016-2021) on 11 top conferences and journals, namely, AAAI, IJCAI, KDD, CIKM, ICDM, WWW, NIPS, ICLR, SIGSPATIAL, IEEE TKDE and IEEE TITS. In addition, the surveys since 2016 and representative papers mentioned in the surveys are also included. We will continue to update the collection.
+In the paper collection, we collected traffic prediction papers published in the recent years (2016-2021) on 13 top conferences and journals, namely, AAAI, IJCAI, KDD, CIKM, ICDM, WWW, NIPS, ICLR, ICML, ICDE, SIGSPATIAL, IEEE TKDE and IEEE TITS. In addition, the surveys since 2016 and representative papers mentioned in the surveys are also included. We will continue to update the collection.
 - [Traffic Prediction Paper Collection](#traffic-prediction-paper-collection)
   - [Surveys](#surveys)
   - [AAAI](#aaai)
@@ -11,6 +11,8 @@ In the paper collection, we collected traffic prediction papers published in the
   - [WWW](#www)
   - [NIPS](#nips)
   - [ICLR](#iclr)
+  - [ICML](#icml)
+  - [ICDE](#icde)
   - [SIGSPATIAL](#sigspatial)
   - [IEEE TKDE](#ieee-tkde)
   - [IEEE TITS](#ieee-tits)
@@ -710,6 +712,73 @@ ___
 **2018**
 ___
 1. **Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting.** *Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu.* ICLR 2018. [link](https://openreview.net/forum?id=SJiHXGWAZ)
+## ICML
+
+**2023**
+
+----
+
+1. **Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation**. *Qianru Zhang(HKU), Chao Huang, Lianghao Xia, Zheng Wang, Siu Ming Yiu, Ruihua Han.* ICML 2023. [link](https://proceedings.mlr.press/v202/zhang23p.html)
+
+**2022**
+
+----
+
+1. **DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting**. *Shiyong Lan(Sichuan University), Yitong Ma, Weikang Huang, Wenwu Wang, Hongyu Yang, Pyang Li.* ICML 2022. [link](https://proceedings.mlr.press/v162/lan22a.html)
+2. **FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting**. *Tian Zhou(Alibaba Group), Ziqing Ma, Qingsong Wen, Xue Wang, Liang Sun, Rong Jin.* ICML 2022. [link](https://proceedings.mlr.press/v162/zhou22g.html)
+3. **Domain Adaptation for Time Series Forecasting via Attention Sharing**. *Xiaoyong Jin(AWS AI Labs), Youngsuk Park, Danielle C. Maddix, Hao Wang, Yuyang Wang.* ICML 2022. [link](https://arxiv.org/abs/2102.06828)
+4. **Utilizing Expert Features for Contrastive Learning of Time-Series Representations**. *Manuel Nonnenmacher(Robert
+   Bosch GmbH), Lukas Oldenburg, Ingo Steinwart, David Reeb.* ICML 2022. [link](https://proceedings.mlr.press/v162/nonnenmacher22a/nonnenmacher22a.pdf)
+5. **Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion**. *Ling Yang(PKU), Shenda Hong.* ICML 2022. [link](https://openreview.net/forum?id=MjbdO3_ihp)
+
+**2021**
+
+-----
+
+1. **Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting**. *Yuzhou Chen(Southern Methodist University), Ignacio Segovia-Dominguez, Yulia R. Gel.* ICML 2021. [link](https://arxiv.org/abs/2105.04100)
+2. **Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting**. *Kashif Rasul(Zalando Research), Calvin Seward, Ingmar Schuster, Roland Vollgraf.* ICML 2021. [link](http://proceedings.mlr.press/v139/rasul21a/rasul21a.pdf)
+
+## ICDE
+
+**2023**
+
+-----
+
+1. **Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting**. *Yusheng Zhao(PKU), Xiao Luo, Wei Ju, Chong Chen, Xian-Sheng Hua, Ming Zhang.* ICDE 2023. [link](https://ieeexplore.ieee.org/document/10184800)
+2. **When Spatio-Temporal Meet Wavelets: Disentangled Traffic Forecasting via Efficient Spectral Graph Attention Networks**. *Yuchen Fang(BUPT), Yanjun Qin, Haiyong Luo, Fang Zhao, Bingbing Xu, Liang Zeng, Chenxing Wang.* ICDE 2023. [link](https://ieeexplore.ieee.org/document/10184591)
+3. **Self-Supervised Spatial-Temporal Bottleneck Attentive Network for Efficient Long-term Traffic Forecasting**. *Shengnan Guo(BJTU), Letian Gong, Chenyun Wang, Zeyu Zhou, Zekai Shen, Yiheng Huang, Youfang Lin, Huaiyu Wan.* ICDE 2023. [link](https://ieeexplore.ieee.org/document/10184658)
+4. **Uncertainty Quantification for Traffic Forecasting: A Unified Approach**. *Weizhu Qian(Aalborg University), Dalin Zhang, Yan Zhao, Kai Zheng,  James J.Q. Yu.* ICDE 2023. [link](https://ieeexplore.ieee.org/abstract/document/10184566)
+5. **ROI-demand Traffic Prediction: A Pre-train, Query and Fine-tune Framework**. *Weijie Shi(Soochow University), Jiajie Xu, Junhua Fang, Pingfu Chao, An Liu, Xiaofang Zhou.* ICDE 2023. [link](https://ieeexplore.ieee.org/document/10184520)
+
+**2022**
+
+-----
+
+1. **A Data-Driven Spatial-Temporal Graph Neural Network for Docked Bike Prediction**. *Guanyao Li(HKUST), Xiaofeng Wang, Gunarto Sindoro Njoo, Shuhan Zhong, S.-H. Gary Chan, Chih-chieh hung, Wen-Chih Peng.* ICDE 2022. [link](https://ieeexplore.ieee.org/document/9835338)
+2. **Towards Spatio-Temporal Aware Traffic Time Series Forecasting**. *Razvan-Gabriel Cirstea(Aalborg University), Bin Yang, Chenjuan Guo, Tung Kieu, Shirui Pan.* ICDE 2022. [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9835586)
+3. **APOTS: A Model for Adversarial Prediction of Traffic Speed**. *Namhyuk Kim(Hyundai Motor Company), Junho Song, Siyoung Lee, Jaewon Choe, Kyungsik Han, Sunghwan Park, Sang-Wook Kim.* ICDE 2022. [link](https://ieeexplore.ieee.org/document/9835704)
+
+**2021**
+
+----
+
+1. **Modeling Citywide Crowd Flows using Attentive Convolutional LSTM**. *Chi Harold Liu(BIT), Chengzhe Piao, Xiaoxin Ma, Ye Yuan, Jian Tang, Guoren Wang, Kin K. Leung.* ICDE 2021. [link](https://ieeexplore.ieee.org/abstract/document/9458664)
+2. **An Effective Joint Prediction Model for Travel Demands and Traffic Flows**. *Haitao Yuan(THU), Guoliang Li, Zhifeng Bao, Ling Feng.* ICDE 2021. [link](https://ieeexplore.ieee.org/document/9458698)
+
+**2020**
+
+----
+
+1. **Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network**. *Hongzhi Shi(THU), Quanming Yao, Qi Guo, Yaguang Li, Lingyu Zhang, Jieping Ye, Yong Li, Yan Liu.* ICDE 2020. [link](https://ieeexplore.ieee.org/abstract/document/9101359)
+2. **Stochastic Origin-Destination Matrix Forecasting Using Dual-Stage Graph Convolutional, Recurrent Neural Networks**. *Jilin Hu(Inception Institute of Artificial Intellegence), Bin Yang, Chenjuan Guo, Christian S. Jensen, Hui Xiong.* ICDE 2020. [link](https://ieeexplore.ieee.org/abstract/document/9101647)
+
+**2019 and before**
+
+----
+
+1. **Personalized route recommendation using big trajectory data.** *J Dai, B Yang, C Guo, Z Ding.* ICDE 2015. [link](https://ieeexplore.ieee.org/abstract/document/7113313)
+2. **Discovering popular routes from trajectories.** *Z Chen, HT Shen, X Zhou.* ICDE 2011. [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5767890)
+
 ## SIGSPATIAL
 
 **2022**
@@ -764,50 +833,51 @@ ___
 1. **FCCF: forecasting citywide crowd flows based on big data.** *Minh X. Hoang, Yu Zheng, Ambuj K. Singh.* SIGSPATIAL 2016. [link](https://dl.acm.org/doi/10.1145/2996913.2996934)
 1. **DNN-based prediction model for spatio-temporal data.** *Junbo Zhang, Yu Zheng, Dekang Qi, Ruiyuan Li, Xiuwen Yi.* SIGSPATIAL 2016. [link](https://dl.acm.org/doi/10.1145/2996913.2997016)
 1. **Personalized route planning in road networks.** *S Funke, S Storandt.* SIGSPATIAL 2015. [link](https://dl.acm.org/doi/abs/10.1145/2820783.2820830)
+
 ## IEEE TKDE
 
 **2024**
 
 ----
 
-1. **Towards a Unified Understanding of Uncertainty Quantification in Traffic Flow Forecasting**. *Weizhu Qian(Soochow University), Yan Zhao, Dalin Zhang, Bowei Chen, Kai Zheng, Xiaofang Zhou.* TKDE 2024. [link](https://ieeexplore.ieee.org/document/10242138)
-2. **CityTrans: Domain-Adversarial Training With Knowledge Transfer for Spatio-Temporal Prediction Across Cities**. *Xiaocao Ouyang(Southwest Jiaotong University), Yan Yang, Wei Zhou, Yiling Zhang, Hao Wang, Wei Huang.* TKDE 2024. [link](https://ieeexplore.ieee.org/document/10145833)
-3. **Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**. *Chuanpan Zheng(Xiamen University), Xiaoliang Fan, Shirui Pan, Haibing Jin, Zhaopeng Peng, Zonghan Wu, Cheng Wang, Philip S. Yu.* TKDE 2024. [link](https://ieeexplore.ieee.org/document/10151673)
+1. **Towards a Unified Understanding of Uncertainty Quantification in Traffic Flow Forecasting**. *Weizhu Qian(Soochow University), Yan Zhao, Dalin Zhang, Bowei Chen, Kai Zheng, Xiaofang Zhou.* IEEE TKDE 2024. [link](https://ieeexplore.ieee.org/document/10242138)
+2. **CityTrans: Domain-Adversarial Training With Knowledge Transfer for Spatio-Temporal Prediction Across Cities**. *Xiaocao Ouyang(Southwest Jiaotong University), Yan Yang, Wei Zhou, Yiling Zhang, Hao Wang, Wei Huang.* IEEE TKDE 2024. [link](https://ieeexplore.ieee.org/document/10145833)
+3. **Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**. *Chuanpan Zheng(Xiamen University), Xiaoliang Fan, Shirui Pan, Haibing Jin, Zhaopeng Peng, Zonghan Wu, Cheng Wang, Philip S. Yu.* IEEE TKDE 2024. [link](https://ieeexplore.ieee.org/document/10151673)
 
 **2023**
 
 ---
 
-1. **Traffic Accident Risk Prediction via Multi-View Multi-Task Spatio-Temporal Networks**. *Senzhang Wang(Central South University), Jiaqiang Zhang, Jiyue Li, Hao Miao, Jiannong Cao.* TKDE 2023. [link](https://ieeexplore.ieee.org/abstract/document/9652050)
-2. **Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction**. *Peng Xie(Southwest Jiaotong University), Minbo Ma, Tianrui Li, Shenggong Ji, Shengdong Du, Zeng Yu, Junbo Zhang.* TKDE 2023. [link](https://ieeexplore.ieee.org/abstract/document/10107812)
-3. **A Lightweight and Accurate Spatial-Temporal Transformer for Traffic Forecasting**. *Guanyao Li(HKUST), Shuhan Zhong, Xingdong Deng, Letian Xiang, S.-H. Gary Chan, Ruiyuan Li, Yang Liu, Ming Zhang, Chih-Chieh Hung, Wen-Chih Peng.* TKDE 2023. [link](https://ieeexplore.ieee.org/document/10004027)
-4. **Cross-City Multi-Granular Adaptive Transfer Learning for Traffic Flow Prediction**. *Jiqian Mo(University of Macau), Zhiguo Gong.* TKDE 2023. [link](https://ieeexplore.ieee.org/document/9999315)
-5. **Traffic Flow Prediction Based on Spatiotemporal Potential Energy Fields**. *Jingyuan Wang(BUAA), Jiahao Ji, Zhe Jiang, Leilei Sun.* TKDE 2023. [link](https://ieeexplore.ieee.org/document/9944966)
-6. **DMGAN: Dynamic Multi-Hop Graph Attention Network for Traffic Forecasting**. *Rui Li(HIT), Fan Zhang, Tong Li, Ning Zhang, Tingting Zhang.* TKDE 2023. [link](https://ieeexplore.ieee.org/document/9944937)
-7. **Forecasting Fine-Grained Urban Flows Via Spatio-Temporal Contrastive Self-Supervision**. *Hao Qu(Shandong University), Yongshun Gong, Meng Chen, Junbo Zhang, Yu Zheng, Yilong Yin.* TKDE 2023. [link](https://ieeexplore.ieee.org/document/9864246)
-8. **A Graph and Attentive Multi-Path Convolutional Network for Traffic Prediction**. *Jianzhong Qi(University of Melbourne), Zhuowei Zhao, Egemen Tanin, Tingru Cui, Neema Nassir, Majid Sarvi.* TKDE 2023. [link](https://ieeexplore.ieee.org/document/9786854)
-9. **STP-TrellisNets+: Spatial-Temporal Parallel TrellisNets for Multi-Step Metro Station Passenger Flow Prediction**. *Junjie Ou(SJTU), Jiahui Sun, Yichen Zhu, Haiming Jin, Yijuan Liu, Fan Zhang, Jianqiang Huang, Xinbing Wang.* TKDE 2023. [link](https://ieeexplore.ieee.org/document/9813413)
-10. **ST-ExpertNet: A Deep Expert Framework for Traffic Prediction**. *Hongjun Wang(Southern University of Science and Technology), Jiyuan Chen, Zipei Fan, Zhiwen Zhang, Zekun Cai, Xuan Song.* TKDE 2023. [link](https://ieeexplore.ieee.org/document/9851916)
-11. **Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework**. *Leye Wang(PKU), Di Chai, Xuanzhe Liu, Liyue Chen, Kai Chen.* TKDE 2023. [link](https://ieeexplore.ieee.org/document/9627543)
-12. **Modeling Spatial Nonstationarity via Deformable Convolutions for Deep Traffic Flow Prediction**. *Wei Zeng(CAS), Chengqiao Lin, Kang Liu, Juncong Lin, Anthony K. H. Tung.* TKDE 2023. [link](https://ieeexplore.ieee.org/document/9540306)
-13. **Multivariate Correlation Matrix-Based Deep Learning Model With Enhanced Heuristic Optimization for Short-Term Traffic Forecasting**. *Shuai Zhang(Zhejiang University of Finance and Economics), Kun Zhu, Wenyu Zhang.* TKDE 2023. [link](https://ieeexplore.ieee.org/document/9565339)
-14. **SOUP: Spatial-Temporal Demand Forecasting and Competitive Supply in Transportation**. *Bolong Zheng(Huazhong University of Science and Technology), Qi Hu, Lingfeng Ming, Jilin Hu, Lu Chen, Kai Zheng, Christian S. Jensen.* TKDE 2023. [link](https://ieeexplore.ieee.org/document/9537675)
-15. **Multi-Scale Adaptive Graph Neural Network for Multivariate Time Series Forecasting**. *Ling Chen(ZJU), Donghui Chen, Zongjiang Shang, Binqing Wu, Cen Zheng, Bo Wen, Wei Zhang.* TKDE 2023. [link](https://ieeexplore.ieee.org/abstract/document/10105527)
+1. **Traffic Accident Risk Prediction via Multi-View Multi-Task Spatio-Temporal Networks**. *Senzhang Wang(Central South University), Jiaqiang Zhang, Jiyue Li, Hao Miao, Jiannong Cao.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/abstract/document/9652050)
+2. **Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction**. *Peng Xie(Southwest Jiaotong University), Minbo Ma, Tianrui Li, Shenggong Ji, Shengdong Du, Zeng Yu, Junbo Zhang.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/abstract/document/10107812)
+3. **A Lightweight and Accurate Spatial-Temporal Transformer for Traffic Forecasting**. *Guanyao Li(HKUST), Shuhan Zhong, Xingdong Deng, Letian Xiang, S.-H. Gary Chan, Ruiyuan Li, Yang Liu, Ming Zhang, Chih-Chieh Hung, Wen-Chih Peng.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/document/10004027)
+4. **Cross-City Multi-Granular Adaptive Transfer Learning for Traffic Flow Prediction**. *Jiqian Mo(University of Macau), Zhiguo Gong.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/document/9999315)
+5. **Traffic Flow Prediction Based on Spatiotemporal Potential Energy Fields**. *Jingyuan Wang(BUAA), Jiahao Ji, Zhe Jiang, Leilei Sun.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/document/9944966)
+6. **DMGAN: Dynamic Multi-Hop Graph Attention Network for Traffic Forecasting**. *Rui Li(HIT), Fan Zhang, Tong Li, Ning Zhang, Tingting Zhang.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/document/9944937)
+7. **Forecasting Fine-Grained Urban Flows Via Spatio-Temporal Contrastive Self-Supervision**. *Hao Qu(Shandong University), Yongshun Gong, Meng Chen, Junbo Zhang, Yu Zheng, Yilong Yin.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/document/9864246)
+8. **A Graph and Attentive Multi-Path Convolutional Network for Traffic Prediction**. *Jianzhong Qi(University of Melbourne), Zhuowei Zhao, Egemen Tanin, Tingru Cui, Neema Nassir, Majid Sarvi.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/document/9786854)
+9. **STP-TrellisNets+: Spatial-Temporal Parallel TrellisNets for Multi-Step Metro Station Passenger Flow Prediction**. *Junjie Ou(SJTU), Jiahui Sun, Yichen Zhu, Haiming Jin, Yijuan Liu, Fan Zhang, Jianqiang Huang, Xinbing Wang.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/document/9813413)
+10. **ST-ExpertNet: A Deep Expert Framework for Traffic Prediction**. *Hongjun Wang(Southern University of Science and Technology), Jiyuan Chen, Zipei Fan, Zhiwen Zhang, Zekun Cai, Xuan Song.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/document/9851916)
+11. **Exploring the Generalizability of Spatio-Temporal Traffic Prediction: Meta-Modeling and an Analytic Framework**. *Leye Wang(PKU), Di Chai, Xuanzhe Liu, Liyue Chen, Kai Chen.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/document/9627543)
+12. **Modeling Spatial Nonstationarity via Deformable Convolutions for Deep Traffic Flow Prediction**. *Wei Zeng(CAS), Chengqiao Lin, Kang Liu, Juncong Lin, Anthony K. H. Tung.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/document/9540306)
+13. **Multivariate Correlation Matrix-Based Deep Learning Model With Enhanced Heuristic Optimization for Short-Term Traffic Forecasting**. *Shuai Zhang(Zhejiang University of Finance and Economics), Kun Zhu, Wenyu Zhang.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/document/9565339)
+14. **SOUP: Spatial-Temporal Demand Forecasting and Competitive Supply in Transportation**. *Bolong Zheng(Huazhong University of Science and Technology), Qi Hu, Lingfeng Ming, Jilin Hu, Lu Chen, Kai Zheng, Christian S. Jensen.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/document/9537675)
+15. **Multi-Scale Adaptive Graph Neural Network for Multivariate Time Series Forecasting**. *Ling Chen(ZJU), Donghui Chen, Zongjiang Shang, Binqing Wu, Cen Zheng, Bo Wen, Wei Zhang.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/abstract/document/10105527)
 
 **2022**
 
 ---
 
-1. **Mixed-Order Relation-Aware Recurrent Neural Networks for Spatio-Temporal Forecasting**. *Yuxuan Liang(NUS), Kun Ouyang, Yiwei Wang, Zheyi Pan, Yifang Yin, Hongyang Chen, Junbo Zhang, Yu Zheng, David S. Rosenblum, Roger Zimmermann.* TKDE 2023. [link](https://ieeexplore.ieee.org/document/9956738)
-2. **Traffic Anomaly Prediction Based on Joint Static-Dynamic Spatio-Temporal Evolutionary Learning**. *Xiaoming Liu(Xi’an Jiaotong University), Zhanwei Zhang, Lingjuan Lyu, Zhaohan Zhang, Shuai Xiao, Chao Shen, Philip S. Yu.* TKDE 2022. [link](https://ieeexplore.ieee.org/document/9711930)
-3. **STP-TrellisNets+: Spatial-Temporal Parallel TrellisNets for Multi-Step Metro Station Passenger Flow Prediction**. *Junjie Ou(SJTU), Jiahui Sun, Yichen Zhu, Haiming Jin, Yijuan Liu, Fan Zhang, Jianqiang Huang, Xinbing Wang.* TKDE 2022. [link](https://ieeexplore.ieee.org/document/9813413)
-4. **Forecasting Fine-Grained Urban Flows Via Spatio-Temporal Contrastive Self-Supervision**. *Hao Qu(Shandong University), Yongshun Gong, Meng Chen, Junbo Zhang, Yu Zheng, Yilong Yin.* TKDE 2022. [link](https://ieeexplore.ieee.org/document/9864246)
-5. **Traffic Flow Prediction Based on Spatiotemporal Potential Energy Fields**. *Jingyuan Wang(BUAA), Jiahao Ji, Zhe Jiang, Leilei Sun.* TKDE 2022. [link](https://ieeexplore.ieee.org/document/9944966)
-6. **DMGAN: Dynamic Multi-Hop Graph Attention Network for Traffic Forecasting**. *Rui Li(HIT), Fan Zhang, Tong Li, Ning Zhang, Tingting Zhang.* TKDE 2022. [link](https://ieeexplore.ieee.org/document/9944937)
-7. **A Graph and Attentive Multi-Path Convolutional Network for Traffic Prediction**. *Jianzhong Qi(University of Melbourne), Zhuowei Zhao, Egemen Tanin, Tingru Cui, Neema Nassir, Majid Sarvi.* TKDE 2022. [link](https://ieeexplore.ieee.org/document/9786854)
-8. **ST-ExpertNet: A Deep Expert Framework for Traffic Prediction**. *Hongjun Wang(Southern University of Science and Technology), Jiyuan Chen, Zipei Fan, Zhiwen Zhang, Zekun Cai, Xuan Song.* TKDE 2022. [link](https://ieeexplore.ieee.org/abstract/document/9851916)
-9. **A Multi-View Multi-Task Learning Framework for Multi-Variate Time Series Forecasting**. *Jinliang Deng(Southern University of Science and Technology), Xiusi Chen, Renhe Jiang, Xuan Song, Ivor W. Tsang.* TKDE 2022. [link](ieeexplore.ieee.org/abstract/document/9935292)
-10. **Multivariate Time Series Forecasting With Dynamic Graph Neural ODEs**. *Ming Jin(Monash University), Yu Zheng, Yuan-Fang Li, Siheng Chen, Bin Yang, Shirui Pan.* TKDE 2022. [link](https://ieeexplore.ieee.org/abstract/document/9950330)
+1. **Mixed-Order Relation-Aware Recurrent Neural Networks for Spatio-Temporal Forecasting**. *Yuxuan Liang(NUS), Kun Ouyang, Yiwei Wang, Zheyi Pan, Yifang Yin, Hongyang Chen, Junbo Zhang, Yu Zheng, David S. Rosenblum, Roger Zimmermann.* IEEE TKDE 2023. [link](https://ieeexplore.ieee.org/document/9956738)
+2. **Traffic Anomaly Prediction Based on Joint Static-Dynamic Spatio-Temporal Evolutionary Learning**. *Xiaoming Liu(Xi’an Jiaotong University), Zhanwei Zhang, Lingjuan Lyu, Zhaohan Zhang, Shuai Xiao, Chao Shen, Philip S. Yu.* IEEE TKDE 2022. [link](https://ieeexplore.ieee.org/document/9711930)
+3. **STP-TrellisNets+: Spatial-Temporal Parallel TrellisNets for Multi-Step Metro Station Passenger Flow Prediction**. *Junjie Ou(SJTU), Jiahui Sun, Yichen Zhu, Haiming Jin, Yijuan Liu, Fan Zhang, Jianqiang Huang, Xinbing Wang.* IEEE TKDE 2022. [link](https://ieeexplore.ieee.org/document/9813413)
+4. **Forecasting Fine-Grained Urban Flows Via Spatio-Temporal Contrastive Self-Supervision**. *Hao Qu(Shandong University), Yongshun Gong, Meng Chen, Junbo Zhang, Yu Zheng, Yilong Yin.* IEEE TKDE 2022. [link](https://ieeexplore.ieee.org/document/9864246)
+5. **Traffic Flow Prediction Based on Spatiotemporal Potential Energy Fields**. *Jingyuan Wang(BUAA), Jiahao Ji, Zhe Jiang, Leilei Sun.* IEEE TKDE 2022. [link](https://ieeexplore.ieee.org/document/9944966)
+6. **DMGAN: Dynamic Multi-Hop Graph Attention Network for Traffic Forecasting**. *Rui Li(HIT), Fan Zhang, Tong Li, Ning Zhang, Tingting Zhang.* IEEE TKDE 2022. [link](https://ieeexplore.ieee.org/document/9944937)
+7. **A Graph and Attentive Multi-Path Convolutional Network for Traffic Prediction**. *Jianzhong Qi(University of Melbourne), Zhuowei Zhao, Egemen Tanin, Tingru Cui, Neema Nassir, Majid Sarvi.* IEEE TKDE 2022. [link](https://ieeexplore.ieee.org/document/9786854)
+8. **ST-ExpertNet: A Deep Expert Framework for Traffic Prediction**. *Hongjun Wang(Southern University of Science and Technology), Jiyuan Chen, Zipei Fan, Zhiwen Zhang, Zekun Cai, Xuan Song.* IEEE TKDE 2022. [link](https://ieeexplore.ieee.org/abstract/document/9851916)
+9. **A Multi-View Multi-Task Learning Framework for Multi-Variate Time Series Forecasting**. *Jinliang Deng(Southern University of Science and Technology), Xiusi Chen, Renhe Jiang, Xuan Song, Ivor W. Tsang.* IEEE TKDE 2022. [link](ieeexplore.ieee.org/abstract/document/9935292)
+10. **Multivariate Time Series Forecasting With Dynamic Graph Neural ODEs**. *Ming Jin(Monash University), Yu Zheng, Yuan-Fang Li, Siheng Chen, Bin Yang, Shirui Pan.* IEEE TKDE 2022. [link](https://ieeexplore.ieee.org/abstract/document/9950330)
 
 **2021**
 
@@ -818,10 +888,10 @@ ___
 1. **Predicting Taxi and Uber Demand in Cities: Approaching the Limit of Predictability.** *Kai Zhao, Denis Khryashchev, Huy T. Vo.* IEEE TKDE 2021. [link](https://ieeexplore.ieee.org/document/8929011)
 1. **Forecasting Gathering Events through Trajectory Destination Prediction: A Dynamic Hybrid Model.** *Amin Vahedian Khezerlou, Xun Zhou, Ling Tong, Yanhua Li, Jun Luo.* IEEE TKDE 2021. [link](https://ieeexplore.ieee.org/document/8812906)
 1. **TIPS: Mining Top-K Locations to Minimize User-Inconvenience for Trajectory-Aware Services.** *Shubhadip Mitra, Priya Saraf, Arnab Bhattacharya.* IEEE TKDE 2021. [link](https://ieeexplore.ieee.org/document/8807216)
-1. **Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting**. *Shengnan Guo(BJTU), Youfang Lin, Huaiyu Wan, Xiucheng Li, Gao Cong.* TKDE 2021. [link](https://ieeexplore.ieee.org/document/9346058)
-1. **DeepCrowd: A Deep Model for Large-Scale Citywide Crowd Density and Flow Prediction**. *Renhe Jiang(The University of Tokyo), Zekun Cai, Zhaonan Wang, Chuang Yang, Zipei Fan, Quanjun Chen, Kota Tsubouchi, Xuan Song, Ryosuke Shibasaki.* TKDE 2021. [link](https://ieeexplore.ieee.org/document/9422199)
-1. **Modeling Spatial Nonstationarity via Deformable Convolutions for Deep Traffic Flow Prediction**. *Wei Zeng(CAS), Chengqiao Lin, Kang Liu, Juncong Lin, Anthony K. H. Tung.* TKDE 2021. [link](https://ieeexplore.ieee.org/abstract/document/9540306)
-1. **Dynamic Auto-Structuring Graph Neural Network: A Joint Learning Framework for Origin-Destination Demand Prediction**. *Dapeng Zhang(Southwestern University of Finance and Economics), Feng Xiao.* TKDE 2021. [link](https://ieeexplore.ieee.org/document/9657493)
+1. **Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting**. *Shengnan Guo(BJTU), Youfang Lin, Huaiyu Wan, Xiucheng Li, Gao Cong.* IEEE TKDE 2021. [link](https://ieeexplore.ieee.org/document/9346058)
+1. **DeepCrowd: A Deep Model for Large-Scale Citywide Crowd Density and Flow Prediction**. *Renhe Jiang(The University of Tokyo), Zekun Cai, Zhaonan Wang, Chuang Yang, Zipei Fan, Quanjun Chen, Kota Tsubouchi, Xuan Song, Ryosuke Shibasaki.* IEEE TKDE 2021. [link](https://ieeexplore.ieee.org/document/9422199)
+1. **Modeling Spatial Nonstationarity via Deformable Convolutions for Deep Traffic Flow Prediction**. *Wei Zeng(CAS), Chengqiao Lin, Kang Liu, Juncong Lin, Anthony K. H. Tung.* IEEE TKDE 2021. [link](https://ieeexplore.ieee.org/abstract/document/9540306)
+1. **Dynamic Auto-Structuring Graph Neural Network: A Joint Learning Framework for Origin-Destination Demand Prediction**. *Dapeng Zhang(Southwestern University of Finance and Economics), Feng Xiao.* IEEE TKDE 2021. [link](https://ieeexplore.ieee.org/document/9657493)
 
 **2020**
 ___
@@ -830,9 +900,9 @@ ___
 1. **Flow Prediction in Spatio-Temporal Networks Based on Multitask Deep Learning.** *Junbo Zhang, Yu Zheng, Junkai Sun, Dekang Qi.* IEEE TKDE 2020. [link](https://ieeexplore.ieee.org/document/8606218)
 1. **Citywide Bike Usage Prediction in a Bike-Sharing System.** *Yexin Li, Yu Zheng.* IEEE TKDE 2020. [link](https://ieeexplore.ieee.org/document/8640047)
 1. **A Joint Two-Phase Time-Sensitive Regularized Collaborative Ranking Model for Point of Interest Recommendation.** *Mohammad Aliannejadi, Dimitrios Rafailidis, Fabio Crestani.* IEEE TKDE 2020. [link](https://ieeexplore.ieee.org/document/8661539)
-1. **Spatio-Temporal Meta Learning for Urban Traffic Prediction**. *Zheyi Pan(SJTU), Wentao Zhang, Yuxuan Liang, Weinan Zhang, Yong Yu, Junbo Zhang, Yu Zheng.* TKDE 2020. [link](https://ieeexplore.ieee.org/document/9096591)
-1. **Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks**. *Junkai Sun(JD Intelligent Cities Research), Junbo Zhang, Qiaofei Li, Xiuwen Yi, Yuxuan Liang, Yu Zheng.* TKDE 2020. [link](https://arxiv.org/abs/1903.07789)
-1. **Foresee Urban Sparse Traffic Accidents: A Spatiotemporal Multi-Granularity Perspective**. *Zhengyang Zhou(USTC), Yang Wang, Xike Xie, Lianliang Chen, Chaochao Zhu.* TKDE 2020. [link](https://ieeexplore.ieee.org/document/9242313)
+1. **Spatio-Temporal Meta Learning for Urban Traffic Prediction**. *Zheyi Pan(SJTU), Wentao Zhang, Yuxuan Liang, Weinan Zhang, Yong Yu, Junbo Zhang, Yu Zheng.* IEEE TKDE 2020. [link](https://ieeexplore.ieee.org/document/9096591)
+1. **Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks**. *Junkai Sun(JD Intelligent Cities Research), Junbo Zhang, Qiaofei Li, Xiuwen Yi, Yuxuan Liang, Yu Zheng.* IEEE TKDE 2020. [link](https://arxiv.org/abs/1903.07789)
+1. **Foresee Urban Sparse Traffic Accidents: A Spatiotemporal Multi-Granularity Perspective**. *Zhengyang Zhou(USTC), Yang Wang, Xike Xie, Lianliang Chen, Chaochao Zhu.* IEEE TKDE 2020. [link](https://ieeexplore.ieee.org/document/9242313)
 
 **2019**
 ___
@@ -862,71 +932,71 @@ ___
 
 ----
 
-1. **A Variational Bayesian Inference-Based En-Decoder Framework for Traffic Flow Prediction**. *Jianlei Kong(Beijing Technology and Business University), Xiaomeng Fan, Xuebo Jin, Sen Lin, Min Zuo.* TITS 2024. [link](https://ieeexplore.ieee.org/document/10132868)
-2. **Spatial–Temporal Traffic Modeling With a Fusion Graph Reconstructed by Tensor Decomposition**. *Qin Li(Guangxi University), Xuan Yang, Yong Wang, Yuankai Wu, Deqiang He.* TITS 2024. [link](https://ieeexplore.ieee.org/document/10259666)
-3. **GMHANN: A Novel Traffic Flow Prediction Method for Transportation Management Based on Spatial-Temporal Graph Modeling**. *Qing Wang(Fujian Normal University), Weiping Liu, Xiumei Wang, Xinghong Chen, Guannan Chen, Qingxiang Wu.* TITS 2024. [link](https://ieeexplore.ieee.org/document/10234657)
-4. **A Multi-Layer Model Based on Transformer and Deep Learning for Traffic Flow Prediction**. *He-Xuan Hu(Hohai University), Qiang Hu, Guoping Tan, Ye Zhang, Zhen-Zhou Lin.* TITS 2024. [link](https://ieeexplore.ieee.org/document/10259660)
-5. **Digital Twin for Transportation Big Data: A Reinforcement Learning-Based Network Traffic Prediction Approach**. *Laisen Nie(Northwestern Polytechnical University), Xiaojie Wang, Qinglin Zhao, Zhigang Shang, Li Feng, Guojun Li.* TITS 2024. [link](https://ieeexplore.ieee.org/document/10021249)
-6. **Observer-Informed Deep Learning for Traffic State Estimation With Boundary Sensing**. *Chenguang Zhao(HKUST), Huan Yu.* TITS 2024. [link](https://ieeexplore.ieee.org/document/10273189)
+1. **A Variational Bayesian Inference-Based En-Decoder Framework for Traffic Flow Prediction**. *Jianlei Kong(Beijing Technology and Business University), Xiaomeng Fan, Xuebo Jin, Sen Lin, Min Zuo.* IEEE TITS 2024. [link](https://ieeexplore.ieee.org/document/10132868)
+2. **Spatial–Temporal Traffic Modeling With a Fusion Graph Reconstructed by Tensor Decomposition**. *Qin Li(Guangxi University), Xuan Yang, Yong Wang, Yuankai Wu, Deqiang He.* IEEE TITS 2024. [link](https://ieeexplore.ieee.org/document/10259666)
+3. **GMHANN: A Novel Traffic Flow Prediction Method for Transportation Management Based on Spatial-Temporal Graph Modeling**. *Qing Wang(Fujian Normal University), Weiping Liu, Xiumei Wang, Xinghong Chen, Guannan Chen, Qingxiang Wu.* IEEE TITS 2024. [link](https://ieeexplore.ieee.org/document/10234657)
+4. **A Multi-Layer Model Based on Transformer and Deep Learning for Traffic Flow Prediction**. *He-Xuan Hu(Hohai University), Qiang Hu, Guoping Tan, Ye Zhang, Zhen-Zhou Lin.* IEEE TITS 2024. [link](https://ieeexplore.ieee.org/document/10259660)
+5. **Digital Twin for Transportation Big Data: A Reinforcement Learning-Based Network Traffic Prediction Approach**. *Laisen Nie(Northwestern Polytechnical University), Xiaojie Wang, Qinglin Zhao, Zhigang Shang, Li Feng, Guojun Li.* IEEE TITS 2024. [link](https://ieeexplore.ieee.org/document/10021249)
+6. **Observer-Informed Deep Learning for Traffic State Estimation With Boundary Sensing**. *Chenguang Zhao(HKUST), Huan Yu.* IEEE TITS 2024. [link](https://ieeexplore.ieee.org/document/10273189)
 
 **2023**
 
 ----
 
-1. **Tensor Extended Kalman Filter and its Application to Traffic Prediction**. *Shih Yu Chang(San Jose State University), Hsiao-Chun Wu, Yi-Chih Kao.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10208113)
-2. **PFNet: Large-Scale Traffic Forecasting With Progressive Spatio-Temporal Fusion**. *Chen Wang(Anhui Normal University), Kaizhong Zuo, Shaokun Zhang, Hanwen Lei, Peng Hu, Zhangyi Shen, Rui Wang, Peize Zhao.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10195833)
-3. **2F-TP: Learning Flexible Spatiotemporal Dependency for Flexible Traffic Prediction**. *Jie Zhao(Chongqing University), Chao Chen, Chengwu Liao, Hongyu Huang, Jie Ma, Huayan Pu, Jun Luo, Tao Zhu, Shilong Wang.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9703274)
-4. **Privacy-Preserving Cross-Area Traffic Forecasting in ITS: A Transferable Spatial-Temporal Graph Neural Network Approach**. *Yuxin Qi(SJTU), Jun Wu, Ali Kashif Bashir, Xi Lin, Wu Yang, Mohammad Dahman Alshehri.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9928430)
-5. **A Neural Network Based on Spatial Decoupling and Patterns Diverging for Urban Rail Transit Ridership Prediction**. *Yong Luo(Soochow University), Jianying Zheng, Xiang Wang, Yanyun Tao, Xingxing Jiang.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10239235)
-6. **An Embedding-Driven Multi-Hop Spatio-Temporal Attention Network for Traffic Prediction**. *Rui Xue(Tongji University), Shengjie Zhao, Fengxia Han.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9960956)
-7. **GraphSAGE-Based Dynamic Spatial–Temporal Graph Convolutional Network for Traffic Prediction**. *Tao Liu(Hohai University), Aimin Jiang, Jia Zhou, Min Li, Hon Keung Kwan.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10143385)
-8. **Traffic Prediction With Transfer Learning: A Mutual Information-Based Approach**. *Yunjie Huang(Southern University of Science and Technology), Xiaozhuang Song, Yuanshao Zhu, Shiyao Zhang, James J. Q. Yu.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10105852)
-9. **Transfer Learning With Spatial–Temporal Graph Convolutional Network for Traffic Prediction**. *Zhixiu Yao(Chongqing University of Posts and Telecommunications), Shichao Xia, Yun Li, Guangfu Wu, Linli Zuo.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10063166)
-10. **Fast Spatiotemporal Learning Framework for Traffic Flow Forecasting**. *Canyang Guo(Fuzhou University), Chi-Hua Chen, Feng-Jang Hwang, Ching-Chun Chang, Chin-Chen Chang.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9966328)
-11. **Spatial-Temporal Position-Aware Graph Convolution Networks for Traffic Flow Forecasting**. *Yiji Zhao(BJTU), Youfang Lin, Haomin Wen, Tonglong Wei, Xiyuan Jin, Huaiyu Wan.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9945663)
-12. **A Deep Learning Approach for Long-Term Traffic Flow Prediction With Multifactor Fusion Using Spatiotemporal Graph Convolutional Network**. *Xiaoyu Qi(China University of Geosciences), Gang Mei, Jingzhi Tu, Ning Xi, Francesco Piccialli.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9875028)
-13. **Graph Attention Network With Spatial-Temporal Clustering for Traffic Flow Forecasting in Intelligent Transportation System**. *Yan Chen(Hunan University of Technology and Business), Tian Shu, Xiaokang Zhou, Xuzhe Zheng, Akira Kawai, Kaoru Fueda, Zheng Yan, Wei Liang, Kevin I-Kai Wang.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9912369)
-14. **Traffic Speed Prediction Based on Time Classification in Combination With Spatial Graph Convolutional Network**. *Xiuqin Pan(Minzu University of China), Fei Hou, Sumin Li.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9868261)
-15. **Automated Dilated Spatio-Temporal Synchronous Graph Modeling for Traffic Prediction**. *Guangyin Jin(National University of Defense Technology), Fuxian Li, Jinlei Zhang, Mudan Wang, Jincai Huang.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9857668)
-16. **Knowledge Expansion and Consolidation for Continual Traffic Prediction With Expanding Graphs**. *Binwu Wang(USTC), Yudong Zhang, Jiahao Shi, Pengkun Wang, Xu Wang, Lei Bai, Yang Wang.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10101714)
-17. **Data-Driven Distance Metrics for Kriging-Short-Term Urban Traffic State Prediction**. *Balázs Varga(Budapest University of Technology and Economics), Mike Pereira, Balázs Kulcsár, Luigi Pariota, Tamás Péni.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10070380)
-18. **Approximate Inference of Traffic Flow State at Signalized Intersections Using a Bayesian Learning Framework**. *Nan Zhang(SenseTime Research), Xiaoguang Yang, Haifeng Guo, Hongzhao Dong, Wanjing Ma.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10101685)
-19. **Low-Rank Hankel Tensor Completion for Traffic Speed Estimation**. *Xudong Wang(McGill University), Yuankai Wu, Dingyi Zhuang, Lijun Sun.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10058108)
-20. **Spatio-Temporal AutoEncoder for Traffic Flow Prediction**. *Mingzhe Liu(BUAA), Tongyu Zhu, Junchen Ye, Qingxin Meng, Leilei Sun, Bowen Du.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10046396)
-21. **Hierarchical Spatio–Temporal Graph Convolutional Networks and Transformer Network for Traffic Flow Forecasting**. *Guangyu Huo(Beijing University of Technology), Yong Zhang, Boyue Wang, Junbin Gao, Yongli Hu, Baocai Yin.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10012451)
-22. **A Novel STFSA-CNN-GRU Hybrid Model for Short-Term Traffic Speed Prediction**. *Changxi Ma(Lanzhou Jiaotong University), Yongpeng Zhao, Guowen Dai, Xuecai Xu, Sze-Chun Wong.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9701439)
-23. **Adaptive Spatiotemporal InceptionNet for Traffic Flow Forecasting**. *Yi Wang(PKU), Changfeng Jing, Wei Huang, Shiyuan Jin, Xinxin Lv.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10032279)
-24. **Modeling Dynamic Traffic Flow as Visibility Graphs: A Network-Scale Prediction Framework for Lane-Level Traffic Flow Based on LPR Data**. *Jie Zeng(Central South University), Jinjun Tang.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10004214)
-25. **Traffic Prediction With Missing Data: A Multi-Task Learning Approach**. *Ao Wang(Southern University of Science and Technology), Yongchao Ye, Xiaozhuang Song, Shiyao Zhang, James J. Q. Yu.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10012030)
-26. **A Gaussian-Process-Based Data-Driven Traffic Flow Model and Its Application in Road Capacity Analysis**. *Zhiyuan Liu(Southeast University), Cheng Lyu, Zelin Wang, Shuaian Wang, Pan Liu, Qiang Meng.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10025463)
-27. **Bayesian Traffic State Estimation Using Extended Floating Car Data**. *Victor Kyriacou(University of Amsterdam), Yiolanda Englezou, Christos G. Panayiotou, Stelios Timotheou.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9990581)
-28. **Self-Supervised Spatiotemporal Graph Neural Networks With Self-Distillation for Traffic Prediction**. *Junzhong Ji(Beijing University of Technology), Fan Yu, Minglong Lei.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9945668)
-29. **Few-Sample Traffic Prediction With Graph Networks Using Locale as Relational Inductive Biases**. *Mingxi Li(The Hong Kong Polytechnic University), Yihong Tang, Wei Ma.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9945664)
-30. **Spatial–Temporal Tensor Graph Convolutional Network for Traffic Speed Prediction**. *Xuran Xu(Nanjing University of Science and Technology), Tong Zhang, Chunyan Xu, Zhen Cui, Jian Yang.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9931142)
-31. **Robust and Hierarchical Spatial Relation Analysis for Traffic Forecasting**. *Weifeng Zhang(PKU), Zhe Wu, Xinfeng Zhang, Guoli Song, Yaowei Wang, Jie Chen.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9945635)
-32. **M3AN: Multitask Multirange Multisubgraph Attention Network for Condition-Aware Traffic Prediction**. *Dan Luo(BUPT), Dong Zhao, Zijian Cao, Mingyao Wu, Liang Liu, Huadong Ma.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9940600)
-33. **ClusterST: Clustering Spatial–Temporal Network for Traffic Forecasting**. *Guiyang Luo(Xidian University), Hui Zhang, Quan Yuan, Jinglin Li, Fei-Yue Wang.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9954322)
-34. **A Data-Driven Spatio-Temporal Speed Prediction Framework for Energy Management of Connected Vehicles**. *Mohammad Reza Amini(University of Michigan), Qiuhao Hu, Ashley Wiese, Ilya Kolmanovsky, Julia Buckland Seeds, Jing Sun.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9931496)
-35. **AutoMSNet: Multi-Source Spatio-Temporal Network via Automatic Neural Architecture Search for Traffic Flow Prediction**. *Shen Fang(CAS), Chunxia Zhang, Shiming Xiang, Chunhong Pan.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9989544)
-36. **Spatial-Temporal Attention Graph Convolution Network on Edge Cloud for Traffic Flow Prediction**. *Qifeng Lai(Sun Yat-sen University), Jinyu Tian, Wei Wang, Xiping Hu.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9819858)
-37. **FedSTN: Graph Representation Driven Federated Learning for Edge Computing Enabled Urban Traffic Flow Prediction**. *Xiaoming Yuan(Northeastern University), Jiahui Chen, Jiayu Yang, Ning Zhang, Tingting Yang, Tao Han, Amir Taherkordi.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9737410)
-38. **Short-Term Traffic Flow Prediction Based on Graph Convolutional Networks and Federated Learning**. *Mengran Xia(Zhongnan University of Economics and Law), Dawei Jin, Jingyu Chen.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9794333)
-39. **Short-Term Traffic Flow Prediction of the Smart City Using 5G Internet of Vehicles Based on Edge Computing**. *Shenghan Zhou(BUAA), Chaofan Wei, Chaofei Song, Xing Pan, Wenbing Chang, Linchao Yang.* TITS 2023. [link](https://ieeexplore.ieee.org/document/9714211)
-40. **MG-TAR: Multi-View Graph Convolutional Networks for Traffic Accident Risk Prediction**. *Patara Trirat(KAIST), Susik Yoon, Jae-Gil Lee.* TITS 2023. [link](https://ieeexplore.ieee.org/abstract/document/10023949)
-41. **Urban Traffic Congestion Level Prediction Using a Fusion-Based Graph Convolutional Network**. *Rui Feng(Dalian University of Technology), Heqi Cui, Qiang Feng, Sixuan Chen, Xiaoning Gu, Baozhen Yao.* TITS 2023. [link](https://ieeexplore.ieee.org/document/10238348)
+1. **Tensor Extended Kalman Filter and its Application to Traffic Prediction**. *Shih Yu Chang(San Jose State University), Hsiao-Chun Wu, Yi-Chih Kao.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10208113)
+2. **PFNet: Large-Scale Traffic Forecasting With Progressive Spatio-Temporal Fusion**. *Chen Wang(Anhui Normal University), Kaizhong Zuo, Shaokun Zhang, Hanwen Lei, Peng Hu, Zhangyi Shen, Rui Wang, Peize Zhao.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10195833)
+3. **2F-TP: Learning Flexible Spatiotemporal Dependency for Flexible Traffic Prediction**. *Jie Zhao(Chongqing University), Chao Chen, Chengwu Liao, Hongyu Huang, Jie Ma, Huayan Pu, Jun Luo, Tao Zhu, Shilong Wang.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9703274)
+4. **Privacy-Preserving Cross-Area Traffic Forecasting in ITS: A Transferable Spatial-Temporal Graph Neural Network Approach**. *Yuxin Qi(SJTU), Jun Wu, Ali Kashif Bashir, Xi Lin, Wu Yang, Mohammad Dahman Alshehri.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9928430)
+5. **A Neural Network Based on Spatial Decoupling and Patterns Diverging for Urban Rail Transit Ridership Prediction**. *Yong Luo(Soochow University), Jianying Zheng, Xiang Wang, Yanyun Tao, Xingxing Jiang.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10239235)
+6. **An Embedding-Driven Multi-Hop Spatio-Temporal Attention Network for Traffic Prediction**. *Rui Xue(Tongji University), Shengjie Zhao, Fengxia Han.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9960956)
+7. **GraphSAGE-Based Dynamic Spatial–Temporal Graph Convolutional Network for Traffic Prediction**. *Tao Liu(Hohai University), Aimin Jiang, Jia Zhou, Min Li, Hon Keung Kwan.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10143385)
+8. **Traffic Prediction With Transfer Learning: A Mutual Information-Based Approach**. *Yunjie Huang(Southern University of Science and Technology), Xiaozhuang Song, Yuanshao Zhu, Shiyao Zhang, James J. Q. Yu.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10105852)
+9. **Transfer Learning With Spatial–Temporal Graph Convolutional Network for Traffic Prediction**. *Zhixiu Yao(Chongqing University of Posts and Telecommunications), Shichao Xia, Yun Li, Guangfu Wu, Linli Zuo.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10063166)
+10. **Fast Spatiotemporal Learning Framework for Traffic Flow Forecasting**. *Canyang Guo(Fuzhou University), Chi-Hua Chen, Feng-Jang Hwang, Ching-Chun Chang, Chin-Chen Chang.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9966328)
+11. **Spatial-Temporal Position-Aware Graph Convolution Networks for Traffic Flow Forecasting**. *Yiji Zhao(BJTU), Youfang Lin, Haomin Wen, Tonglong Wei, Xiyuan Jin, Huaiyu Wan.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9945663)
+12. **A Deep Learning Approach for Long-Term Traffic Flow Prediction With Multifactor Fusion Using Spatiotemporal Graph Convolutional Network**. *Xiaoyu Qi(China University of Geosciences), Gang Mei, Jingzhi Tu, Ning Xi, Francesco Piccialli.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9875028)
+13. **Graph Attention Network With Spatial-Temporal Clustering for Traffic Flow Forecasting in Intelligent Transportation System**. *Yan Chen(Hunan University of Technology and Business), Tian Shu, Xiaokang Zhou, Xuzhe Zheng, Akira Kawai, Kaoru Fueda, Zheng Yan, Wei Liang, Kevin I-Kai Wang.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9912369)
+14. **Traffic Speed Prediction Based on Time Classification in Combination With Spatial Graph Convolutional Network**. *Xiuqin Pan(Minzu University of China), Fei Hou, Sumin Li.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9868261)
+15. **Automated Dilated Spatio-Temporal Synchronous Graph Modeling for Traffic Prediction**. *Guangyin Jin(National University of Defense Technology), Fuxian Li, Jinlei Zhang, Mudan Wang, Jincai Huang.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9857668)
+16. **Knowledge Expansion and Consolidation for Continual Traffic Prediction With Expanding Graphs**. *Binwu Wang(USTC), Yudong Zhang, Jiahao Shi, Pengkun Wang, Xu Wang, Lei Bai, Yang Wang.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10101714)
+17. **Data-Driven Distance Metrics for Kriging-Short-Term Urban Traffic State Prediction**. *Balázs Varga(Budapest University of Technology and Economics), Mike Pereira, Balázs Kulcsár, Luigi Pariota, Tamás Péni.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10070380)
+18. **Approximate Inference of Traffic Flow State at Signalized Intersections Using a Bayesian Learning Framework**. *Nan Zhang(SenseTime Research), Xiaoguang Yang, Haifeng Guo, Hongzhao Dong, Wanjing Ma.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10101685)
+19. **Low-Rank Hankel Tensor Completion for Traffic Speed Estimation**. *Xudong Wang(McGill University), Yuankai Wu, Dingyi Zhuang, Lijun Sun.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10058108)
+20. **Spatio-Temporal AutoEncoder for Traffic Flow Prediction**. *Mingzhe Liu(BUAA), Tongyu Zhu, Junchen Ye, Qingxin Meng, Leilei Sun, Bowen Du.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10046396)
+21. **Hierarchical Spatio–Temporal Graph Convolutional Networks and Transformer Network for Traffic Flow Forecasting**. *Guangyu Huo(Beijing University of Technology), Yong Zhang, Boyue Wang, Junbin Gao, Yongli Hu, Baocai Yin.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10012451)
+22. **A Novel STFSA-CNN-GRU Hybrid Model for Short-Term Traffic Speed Prediction**. *Changxi Ma(Lanzhou Jiaotong University), Yongpeng Zhao, Guowen Dai, Xuecai Xu, Sze-Chun Wong.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9701439)
+23. **Adaptive Spatiotemporal InceptionNet for Traffic Flow Forecasting**. *Yi Wang(PKU), Changfeng Jing, Wei Huang, Shiyuan Jin, Xinxin Lv.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10032279)
+24. **Modeling Dynamic Traffic Flow as Visibility Graphs: A Network-Scale Prediction Framework for Lane-Level Traffic Flow Based on LPR Data**. *Jie Zeng(Central South University), Jinjun Tang.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10004214)
+25. **Traffic Prediction With Missing Data: A Multi-Task Learning Approach**. *Ao Wang(Southern University of Science and Technology), Yongchao Ye, Xiaozhuang Song, Shiyao Zhang, James J. Q. Yu.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10012030)
+26. **A Gaussian-Process-Based Data-Driven Traffic Flow Model and Its Application in Road Capacity Analysis**. *Zhiyuan Liu(Southeast University), Cheng Lyu, Zelin Wang, Shuaian Wang, Pan Liu, Qiang Meng.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10025463)
+27. **Bayesian Traffic State Estimation Using Extended Floating Car Data**. *Victor Kyriacou(University of Amsterdam), Yiolanda Englezou, Christos G. Panayiotou, Stelios Timotheou.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9990581)
+28. **Self-Supervised Spatiotemporal Graph Neural Networks With Self-Distillation for Traffic Prediction**. *Junzhong Ji(Beijing University of Technology), Fan Yu, Minglong Lei.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9945668)
+29. **Few-Sample Traffic Prediction With Graph Networks Using Locale as Relational Inductive Biases**. *Mingxi Li(The Hong Kong Polytechnic University), Yihong Tang, Wei Ma.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9945664)
+30. **Spatial–Temporal Tensor Graph Convolutional Network for Traffic Speed Prediction**. *Xuran Xu(Nanjing University of Science and Technology), Tong Zhang, Chunyan Xu, Zhen Cui, Jian Yang.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9931142)
+31. **Robust and Hierarchical Spatial Relation Analysis for Traffic Forecasting**. *Weifeng Zhang(PKU), Zhe Wu, Xinfeng Zhang, Guoli Song, Yaowei Wang, Jie Chen.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9945635)
+32. **M3AN: Multitask Multirange Multisubgraph Attention Network for Condition-Aware Traffic Prediction**. *Dan Luo(BUPT), Dong Zhao, Zijian Cao, Mingyao Wu, Liang Liu, Huadong Ma.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9940600)
+33. **ClusterST: Clustering Spatial–Temporal Network for Traffic Forecasting**. *Guiyang Luo(Xidian University), Hui Zhang, Quan Yuan, Jinglin Li, Fei-Yue Wang.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9954322)
+34. **A Data-Driven Spatio-Temporal Speed Prediction Framework for Energy Management of Connected Vehicles**. *Mohammad Reza Amini(University of Michigan), Qiuhao Hu, Ashley Wiese, Ilya Kolmanovsky, Julia Buckland Seeds, Jing Sun.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9931496)
+35. **AutoMSNet: Multi-Source Spatio-Temporal Network via Automatic Neural Architecture Search for Traffic Flow Prediction**. *Shen Fang(CAS), Chunxia Zhang, Shiming Xiang, Chunhong Pan.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9989544)
+36. **Spatial-Temporal Attention Graph Convolution Network on Edge Cloud for Traffic Flow Prediction**. *Qifeng Lai(Sun Yat-sen University), Jinyu Tian, Wei Wang, Xiping Hu.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9819858)
+37. **FedSTN: Graph Representation Driven Federated Learning for Edge Computing Enabled Urban Traffic Flow Prediction**. *Xiaoming Yuan(Northeastern University), Jiahui Chen, Jiayu Yang, Ning Zhang, Tingting Yang, Tao Han, Amir Taherkordi.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9737410)
+38. **Short-Term Traffic Flow Prediction Based on Graph Convolutional Networks and Federated Learning**. *Mengran Xia(Zhongnan University of Economics and Law), Dawei Jin, Jingyu Chen.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9794333)
+39. **Short-Term Traffic Flow Prediction of the Smart City Using 5G Internet of Vehicles Based on Edge Computing**. *Shenghan Zhou(BUAA), Chaofan Wei, Chaofei Song, Xing Pan, Wenbing Chang, Linchao Yang.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/9714211)
+40. **MG-TAR: Multi-View Graph Convolutional Networks for Traffic Accident Risk Prediction**. *Patara Trirat(KAIST), Susik Yoon, Jae-Gil Lee.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/abstract/document/10023949)
+41. **Urban Traffic Congestion Level Prediction Using a Fusion-Based Graph Convolutional Network**. *Rui Feng(Dalian University of Technology), Heqi Cui, Qiang Feng, Sixuan Chen, Xiaoning Gu, Baozhen Yao.* IEEE TITS 2023. [link](https://ieeexplore.ieee.org/document/10238348)
 
 **2022**
 
 ----
 
-1. **Spatial-Temporal Position-Aware Graph Convolution Networks for Traffic Flow Forecasting**. *Yiji Zhao(BJTU), Youfang Lin, Haomin Wen, Tonglong Wei, Xiyuan Jin, Huaiyu Wan.* TITS 2022. [link](https://ieeexplore.ieee.org/document/9945663)
-2. **Traffic Inflow and Outflow Forecasting by Modeling Intra- and Inter-Relationship between Flows**. *Yiji Zhao(BJTU), Youfang Lin, Yongkai Zhang, Haomin Wen, Yunxiao Liu, Hao Wu, Zhihao Wu, Shuaichao Zhang, and Huaiyu Wan.* TITS 2022. [link](https://ieeexplore.ieee.org/document/9827999)
-3. **Traffic-GGNN: Predicting Traffic Flow via Attentional Spatial-Temporal Gated Graph Neural Networks**. *Yang Wang(Southwest Petroleum University), Jin Zheng, Yuqi Du, Cheng Huang, Ping Li.* TITS 2022. [link](ieeexplore.ieee.org/document/9766159)
-4. **Adaptive Spatiotemporal Dependence Learning for Multi-Mode Transportation Demand Prediction**. *Haihui Xu(Beijing Municipal Transportation Operations Coordination Center), Tao Zou, Mingzhe Liu, Yanan Qiao, Jingjing Wang, Xucheng Li.* TITS 2022. [link](https://ieeexplore.ieee.org/document/9732280)
-5. **M3AN: Multitask Multirange Multisubgraph Attention Network for Condition-Aware Traffic Prediction**. *Dan Luo(BUPT), Dong Zhao, Zijian Cao, Mingyao Wu, Liang Liu, Huadong Ma.* TITS 2022. [link](https://ieeexplore.ieee.org/document/9940600)
-6. **AutoMSNet: Multi-Source Spatio-Temporal Network via Automatic Neural Architecture Search for Traffic Flow Prediction**. *Shen Fang(CAS), Chunxia Zhang, Shiming Xiang, Chunhong Pan.* TITS 2022. [link](https://ieeexplore.ieee.org/document/9989544)
-7. **ClusterST: Clustering Spatial–Temporal Network for Traffic Forecasting**. *Guiyang Luo(BUPT), Hui Zhang, Quan Yuan, Jinglin Li, Fei-Yue Wang.* TITS 2022. [link](https://ieeexplore.ieee.org/document/9954322)
-8. **TGAE: Temporal Graph Autoencoder for Travel Forecasting**. *Qiang Wang(Wuhan University), Hao Jiang, Meikang Qiu, Yifeng Liu, Dongsheng Ye.* TITS 2022. [link](https://ieeexplore.ieee.org/abstract/document/9889163)
+1. **Spatial-Temporal Position-Aware Graph Convolution Networks for Traffic Flow Forecasting**. *Yiji Zhao(BJTU), Youfang Lin, Haomin Wen, Tonglong Wei, Xiyuan Jin, Huaiyu Wan.* IEEE TITS 2022. [link](https://ieeexplore.ieee.org/document/9945663)
+2. **Traffic Inflow and Outflow Forecasting by Modeling Intra- and Inter-Relationship between Flows**. *Yiji Zhao(BJTU), Youfang Lin, Yongkai Zhang, Haomin Wen, Yunxiao Liu, Hao Wu, Zhihao Wu, Shuaichao Zhang, and Huaiyu Wan.* IEEE TITS 2022. [link](https://ieeexplore.ieee.org/document/9827999)
+3. **Traffic-GGNN: Predicting Traffic Flow via Attentional Spatial-Temporal Gated Graph Neural Networks**. *Yang Wang(Southwest Petroleum University), Jin Zheng, Yuqi Du, Cheng Huang, Ping Li.* IEEE TITS 2022. [link](ieeexplore.ieee.org/document/9766159)
+4. **Adaptive Spatiotemporal Dependence Learning for Multi-Mode Transportation Demand Prediction**. *Haihui Xu(Beijing Municipal Transportation Operations Coordination Center), Tao Zou, Mingzhe Liu, Yanan Qiao, Jingjing Wang, Xucheng Li.* IEEE TITS 2022. [link](https://ieeexplore.ieee.org/document/9732280)
+5. **M3AN: Multitask Multirange Multisubgraph Attention Network for Condition-Aware Traffic Prediction**. *Dan Luo(BUPT), Dong Zhao, Zijian Cao, Mingyao Wu, Liang Liu, Huadong Ma.* IEEE TITS 2022. [link](https://ieeexplore.ieee.org/document/9940600)
+6. **AutoMSNet: Multi-Source Spatio-Temporal Network via Automatic Neural Architecture Search for Traffic Flow Prediction**. *Shen Fang(CAS), Chunxia Zhang, Shiming Xiang, Chunhong Pan.* IEEE TITS 2022. [link](https://ieeexplore.ieee.org/document/9989544)
+7. **ClusterST: Clustering Spatial–Temporal Network for Traffic Forecasting**. *Guiyang Luo(BUPT), Hui Zhang, Quan Yuan, Jinglin Li, Fei-Yue Wang.* IEEE TITS 2022. [link](https://ieeexplore.ieee.org/document/9954322)
+8. **TGAE: Temporal Graph Autoencoder for Travel Forecasting**. *Qiang Wang(Wuhan University), Hao Jiang, Meikang Qiu, Yifeng Liu, Dongsheng Ye.* IEEE TITS 2022. [link](https://ieeexplore.ieee.org/abstract/document/9889163)
 
 **2021**
 ___
@@ -952,11 +1022,11 @@ ___
 1. **Automatic Feature Engineering for Bus Passenger Flow Prediction Based on Modular Convolutional Neural Network.** *Yang Liu, Cheng Lyu, Xin Liu, Zhiyuan Liu.* IEEE TITS 2021. [link](https://ieeexplore.ieee.org/document/9141203)
 1. **Recommendation for Ridesharing Groups Through Destination Prediction on Trajectory Data.** *Lei Tang, Zongtao Duan, Yishui Zhu, Junchi Ma, Zihang Liu.* IEEE TITS 2021. [link](https://ieeexplore.ieee.org/document/8944004)
 1. **TrafficGAN: Network-Scale Deep Traffic Prediction With Generative Adversarial Nets.** *Yuxuan Zhang, Senzhang Wang, Bing Chen, Jiannong Cao, Zhiqiu Huang.* IEEE TITS 2021. [link](https://ieeexplore.ieee.org/document/8935152)
-1. **Spatio-Temporal Knowledge Transfer for Urban Crowd Flow Prediction via Deep Attentive Adaptation Networks**. *Senzhang Wang(Central South University), Hao Miao, Jiyue Li, Jiannong Cao.* TITS 2021. [link](https://ieeexplore.ieee.org/document/9352560)
-1. **Learning Dynamic and Hierarchical Traffic Spatiotemporal Features With Transformer**. *Haoyang Yan(BUAA), Xiaolei Ma, Ziyuan Pu.* TITS 2021. [link](https://ieeexplore.ieee.org/document/9520129)
-1. **A Graph Convolutional Stacked Bidirectional Unidirectional-LSTM Neural Network for Metro Ridership Prediction**. *Pengfei Chen(Sun Yat-sen University), Xuandi Fu, Xue Wang.* TITS 2021. [link](https://ieeexplore.ieee.org/document/9381554)
-1. **FTPG: A Fine-Grained Traffic Prediction Method With Graph Attention Network Using Big Trace Data**. *Mengyuan Fang(Wuhan University), Luliang Tang, Xue Yang, Yang Chen, Chaokui Li, Qingquan Li.* TITS 2021. [link](https://ieeexplore.ieee.org/document/9329073)
-1. **KST-GCN: A Knowledge-Driven Spatial-Temporal Graph Convolutional Network for Traffic Forecasting**. *Jiawei Zhu(Central South University), Xing Han, Hanhan Deng, Chao Tao, Ling Zhao, Pu Wang, Tao Lin, Haifeng Li.* TITS 2021. [link](https://ieeexplore.ieee.org/abstract/document/9681326)
+1. **Spatio-Temporal Knowledge Transfer for Urban Crowd Flow Prediction via Deep Attentive Adaptation Networks**. *Senzhang Wang(Central South University), Hao Miao, Jiyue Li, Jiannong Cao.* IEEE TITS 2021. [link](https://ieeexplore.ieee.org/document/9352560)
+1. **Learning Dynamic and Hierarchical Traffic Spatiotemporal Features With Transformer**. *Haoyang Yan(BUAA), Xiaolei Ma, Ziyuan Pu.* IEEE TITS 2021. [link](https://ieeexplore.ieee.org/document/9520129)
+1. **A Graph Convolutional Stacked Bidirectional Unidirectional-LSTM Neural Network for Metro Ridership Prediction**. *Pengfei Chen(Sun Yat-sen University), Xuandi Fu, Xue Wang.* IEEE TITS 2021. [link](https://ieeexplore.ieee.org/document/9381554)
+1. **FTPG: A Fine-Grained Traffic Prediction Method With Graph Attention Network Using Big Trace Data**. *Mengyuan Fang(Wuhan University), Luliang Tang, Xue Yang, Yang Chen, Chaokui Li, Qingquan Li.* IEEE TITS 2021. [link](https://ieeexplore.ieee.org/document/9329073)
+1. **KST-GCN: A Knowledge-Driven Spatial-Temporal Graph Convolutional Network for Traffic Forecasting**. *Jiawei Zhu(Central South University), Xing Han, Hanhan Deng, Chao Tao, Ling Zhao, Pu Wang, Tao Lin, Haifeng Li.* IEEE TITS 2021. [link](https://ieeexplore.ieee.org/abstract/document/9681326)
 
 **2020**
 ___
@@ -990,21 +1060,21 @@ ___
 1. **Topological Graph Convolutional Network-Based Urban Traffic Flow and Density Prediction.** *Han Qiu; Qinkai Zheng; Mounira Msahli; Gerard Memmi; Meikang Qiu; Jialiang Lu.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/abstract/document/9247476)
 1. **Deep learning architecture for short-term passenger flow forecasting in urban rail transit.** *Jinlei Zhang; Feng Chen; Zhiyong Cui; Yinan Guo; Yadi Zhu.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/abstract/document/9136910)
 1. **Dynamic Graph Convolution Network for Traffic Forecasting Based on Latent Network of Laplace Matrix Estimation.** *Kan Guo; Yongli Hu; Zhen Qian; Yanfeng Sun; Junbin Gao; Baocai Yin.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/document/9190068/)
-1. **Dynamic Spatial-Temporal Representation Learning for Traffic Flow Prediction**. *Lingbo Liu(Sun Yat-sen University), Jiajie Zhen, Guanbin Li, Geng Zhan, Zhaocheng He, Bowen Du, Liang Lin.* TITS 2020. [link](https://arxiv.org/abs/1909.02902)
-1. **Global-Local Temporal Convolutional Network for Traffic Flow Prediction**. *Yajie Ren(BUPT), Dong Zhao, Dan Luo, Huadong Ma, Pengrui Duan.* TITS 2020. [link](https://ieeexplore.ieee.org/document/9216498)
-1. **A Multi-Stream Feature Fusion Approach for Traffic Prediction**. *Zhishuai Li(CAS), Gang Xiong, Yonglin Tian, Yisheng Lv, Yuanyuan Chen, Pan Hui, Xiang Su.* TITS 2020. [link](https://ieeexplore.ieee.org/document/9216590)
-1. **Short-Term Traffic Flow Forecasting Using Ensemble Approach Based on Deep Belief Networks**. *Jin Liu(Macau University of Science and Technology), Naiqi Wu, Yan Qiao, Zhiwu Li.* TITS 2020. [link](https://ieeexplore.ieee.org/document/9161367)
-1. **Grids versus graphs: Partitioning space for improved taxi demand-supply forecasts**. *Neema Davis, Gaurav Raina, Krishna Jagannathan.* TITS 2020. [link](https://ieeexplore.ieee.org/abstract/document/9099450)
-1. **Short-Term Traffic Flow Forecasting Method With M-B-LSTM Hybrid Network**. *Zhaowei Qu(Jilin University), Haitao Li, Zhihui Li, Zhong Tao.* TITS 2020. [link](https://ieeexplore.ieee.org/document/9152107)
-1. **Temporal Multi-Graph Convolutional Network for Traffic Flow Prediction**. *Mingqi Lv(Zhejiang University of Technology), Zhaoxiong Hong, Ling Chen, Tieming Chen, Tiantian Zhu, Shouling Ji.* TITS 2020. [link](https://ieeexplore.ieee.org/document/9098104)
-1. **Embedding Traffic Network Characteristics Using Tensor for Improved Traffic Prediction**. *Manish Bhanu(ndian Institute of Technology), João Mendes-Moreira, Joydeep Chandra.* TITS 2020. [link](https://ieeexplore.ieee.org/document/9061154)
-1. **Forecasting Transportation Network Speed Using Deep Capsule Networks With Nested LSTM Models**. *Xiaolei Ma(BUAA), Houyue Zhong, Yi Li, Junyan Ma, Zhiyong Cui, Yinhai Wang.* TITS 2020. [link](https://ieeexplore.ieee.org/document/9069477)
-1. **A Spatial–Temporal Attention Approach for Traffic Prediction**. *Xiaoming Shi(Dalian University of Technology), Heng Qi, Yanming Shen, Genze Wu, Baocai Yin.* TITS 2020. [link](ieeexplore.ieee.org/document/9062547)
-1. **Long-Term Traffic Prediction Based on LSTM Encoder-Decoder Architecture**. *Zhumei Wang(Beijing University of Technology), Xing Su, Zhiming Ding.* TITS 2020. [link](https://ieeexplore.ieee.org/document/9107249)
-1. **A Hybrid Deep Learning Model With Attention-Based Conv-LSTM Networks for Short-Term Traffic Flow Prediction**. *Haifeng Zheng(Fuzhou University), Feng Lin, Xinxin Feng, Youjia Chen.* TITS 2020. [link](https://ieeexplore.ieee.org/document/9112272)
-1. **Spatial Origin-Destination Flow Imputation Using Graph Convolutional Networks**. *Xin Yao(PKU), Yong Gao, Di Zhu, Ed Manley, Jiaoe Wang, Yu Liu.* TITS 2020. [link](https://ieeexplore.ieee.org/document/9130943)
-1. **STNN: A Spatio-Temporal Neural Network for Traffic Predictions**. *Zhixiang He(CUHK), Chi-Yin Chow, Jia-Dong Zhang.* TITS 2020. [link](https://ieeexplore.ieee.org/document/9142387)
-1. **Taxi Demand Prediction Using Parallel Multi-Task Learning Model**. *Chizhan Zhang(CAS), Fenghua Zhu, Xiao Wang, Leilei Sun, Haina Tang, Yisheng Lv.* TITS 2020. [link](https://ieeexplore.ieee.org/document/9172100)
+1. **Dynamic Spatial-Temporal Representation Learning for Traffic Flow Prediction**. *Lingbo Liu(Sun Yat-sen University), Jiajie Zhen, Guanbin Li, Geng Zhan, Zhaocheng He, Bowen Du, Liang Lin.* IEEE TITS 2020. [link](https://arxiv.org/abs/1909.02902)
+1. **Global-Local Temporal Convolutional Network for Traffic Flow Prediction**. *Yajie Ren(BUPT), Dong Zhao, Dan Luo, Huadong Ma, Pengrui Duan.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/document/9216498)
+1. **A Multi-Stream Feature Fusion Approach for Traffic Prediction**. *Zhishuai Li(CAS), Gang Xiong, Yonglin Tian, Yisheng Lv, Yuanyuan Chen, Pan Hui, Xiang Su.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/document/9216590)
+1. **Short-Term Traffic Flow Forecasting Using Ensemble Approach Based on Deep Belief Networks**. *Jin Liu(Macau University of Science and Technology), Naiqi Wu, Yan Qiao, Zhiwu Li.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/document/9161367)
+1. **Grids versus graphs: Partitioning space for improved taxi demand-supply forecasts**. *Neema Davis, Gaurav Raina, Krishna Jagannathan.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/abstract/document/9099450)
+1. **Short-Term Traffic Flow Forecasting Method With M-B-LSTM Hybrid Network**. *Zhaowei Qu(Jilin University), Haitao Li, Zhihui Li, Zhong Tao.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/document/9152107)
+1. **Temporal Multi-Graph Convolutional Network for Traffic Flow Prediction**. *Mingqi Lv(Zhejiang University of Technology), Zhaoxiong Hong, Ling Chen, Tieming Chen, Tiantian Zhu, Shouling Ji.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/document/9098104)
+1. **Embedding Traffic Network Characteristics Using Tensor for Improved Traffic Prediction**. *Manish Bhanu(ndian Institute of Technology), João Mendes-Moreira, Joydeep Chandra.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/document/9061154)
+1. **Forecasting Transportation Network Speed Using Deep Capsule Networks With Nested LSTM Models**. *Xiaolei Ma(BUAA), Houyue Zhong, Yi Li, Junyan Ma, Zhiyong Cui, Yinhai Wang.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/document/9069477)
+1. **A Spatial–Temporal Attention Approach for Traffic Prediction**. *Xiaoming Shi(Dalian University of Technology), Heng Qi, Yanming Shen, Genze Wu, Baocai Yin.* IEEE TITS 2020. [link](ieeexplore.ieee.org/document/9062547)
+1. **Long-Term Traffic Prediction Based on LSTM Encoder-Decoder Architecture**. *Zhumei Wang(Beijing University of Technology), Xing Su, Zhiming Ding.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/document/9107249)
+1. **A Hybrid Deep Learning Model With Attention-Based Conv-LSTM Networks for Short-Term Traffic Flow Prediction**. *Haifeng Zheng(Fuzhou University), Feng Lin, Xinxin Feng, Youjia Chen.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/document/9112272)
+1. **Spatial Origin-Destination Flow Imputation Using Graph Convolutional Networks**. *Xin Yao(PKU), Yong Gao, Di Zhu, Ed Manley, Jiaoe Wang, Yu Liu.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/document/9130943)
+1. **STNN: A Spatio-Temporal Neural Network for Traffic Predictions**. *Zhixiang He(CUHK), Chi-Yin Chow, Jia-Dong Zhang.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/document/9142387)
+1. **Taxi Demand Prediction Using Parallel Multi-Task Learning Model**. *Chizhan Zhang(CAS), Fenghua Zhu, Xiao Wang, Leilei Sun, Haina Tang, Yisheng Lv.* IEEE TITS 2020. [link](https://ieeexplore.ieee.org/document/9172100)
 
 **2019**
 ___
@@ -1059,8 +1129,8 @@ ___
 1. **Uncertainty in Bus Arrival Time Predictions: Treating Heteroscedasticity With a Metamodel Approach.** *Aidan O'Sullivan, Francisco C. Pereira, Jinhua Zhao, Harilaos N. Koutsopoulos.* IEEE TITS 2016. [link](https://ieeexplore.ieee.org/document/7464894)
 1. **Managing Spatial Graph Dependencies in Large Volumes of Traffic Data for Travel-Time Prediction.** *Athanasios Salamanis, Dionysios D. Kehagias, Christos K. Filelis-Papadopoulos, Dimitrios Tzovaras, George A. Gravvanis.* IEEE TITS 2016. [link](https://ieeexplore.ieee.org/document/7310861)
 1. **High-Order Gaussian Process Dynamical Models for Traffic Flow Prediction.** *Jing Zhao, Shiliang Sun.* IEEE TITS 2016. [link](https://ieeexplore.ieee.org/document/7410096)
-1. **Traffic Flow Prediction With Big Data: A Deep Learning Approach**. *Yisheng Lv(CAS), Yanjie Duan, Wenwen Kang, Zhengxi Li, Fei-Yue Wang.* TITS 2015. [link](https://ieeexplore.ieee.org/abstract/document/6894591/)
-1. **Short-Term Traffic Flow Forecasting: An Experimental Comparison of Time-Series Analysis and Supervised Learning**. *Marco Lippi(University of Florence), Matteo Bertini, Paolo Frasconi.* TITS 2013. [link](https://ieeexplore.ieee.org/document/6482260)
+1. **Traffic Flow Prediction With Big Data: A Deep Learning Approach**. *Yisheng Lv(CAS), Yanjie Duan, Wenwen Kang, Zhengxi Li, Fei-Yue Wang.* IEEE TITS 2015. [link](https://ieeexplore.ieee.org/abstract/document/6894591/)
+1. **Short-Term Traffic Flow Forecasting: An Experimental Comparison of Time-Series Analysis and Supervised Learning**. *Marco Lippi(University of Florence), Matteo Bertini, Paolo Frasconi.* IEEE TITS 2013. [link](https://ieeexplore.ieee.org/document/6482260)
 ## Others
 
 **2024**
@@ -1073,64 +1143,45 @@ ___
 
 **2023**
 
-----
+-----
 
-1. **Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation**. *Qianru Zhang(HKU), Chao Huang, Lianghao Xia, Zheng Wang, Siu Ming Yiu, Ruihua Han.* ICML 2023. [link](https://proceedings.mlr.press/v202/zhang23p.html)
-2. **Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting**. *Yusheng Zhao(PKU), Xiao Luo, Wei Ju, Chong Chen, Xian-Sheng Hua, Ming Zhang.* ICDE 2023. [link](https://ieeexplore.ieee.org/document/10184800)
-3. **When Spatio-Temporal Meet Wavelets: Disentangled Traffic Forecasting via Efficient Spectral Graph Attention Networks**. *Yuchen Fang(BUPT), Yanjun Qin, Haiyong Luo, Fang Zhao, Bingbing Xu, Liang Zeng, Chenxing Wang.* ICDE 2023. [link](https://ieeexplore.ieee.org/document/10184591)
-4. **Self-Supervised Spatial-Temporal Bottleneck Attentive Network for Efficient Long-term Traffic Forecasting**. *Shengnan Guo(BJTU), Letian Gong, Chenyun Wang, Zeyu Zhou, Zekai Shen, Yiheng Huang, Youfang Lin, Huaiyu Wan.* ICDE 2023. [link](https://ieeexplore.ieee.org/document/10184658)
-5. **Uncertainty Quantification for Traffic Forecasting: A Unified Approach**. *Weizhu Qian(Aalborg University), Dalin Zhang, Yan Zhao, Kai Zheng,  James J.Q. Yu.* ICDE 2023. [link](https://ieeexplore.ieee.org/abstract/document/10184566)
-6. **ROI-demand Traffic Prediction: A Pre-train, Query and Fine-tune Framework**. *Weijie Shi(Soochow University), Jiajie Xu, Junhua Fang, Pingfu Chao, An Liu, Xiaofang Zhou.* ICDE 2023. [link](https://ieeexplore.ieee.org/document/10184520)
-7. **A Multi-graph Fusion Based Spatiotemporal Dynamic Learning Framework**. *Xu Wang(USTC), Lianliang Chen, Hongbo Zhang, Pengkun Wang, Zhengyang Zhou, Yang Wang.* WSDM 2023. [link](https://dl.acm.org/doi/10.1145/3539597.3570396)
-8. **A Knowledge-Driven Memory System for Traffic Flow Prediction**. *Binwu Wang(USTC), Yudong Zhang, Pengkun Wang, Xu Wang, Lei Bai, Yang Wang.* DASFAA 2023. [link](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_15)
-9. **Region-Aware Graph Convolutional Network for Traffic Flow Forecasting**. *Haitao Liang(Soochow University), An Liu, Jianfeng Qu, Wei Chen, Xiaofang Zhang, Lei Zhao.* DASFAA 2023. [link](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_32)
-10. **Dual-Stage Graph Convolution Network With Graph Learning For Traffic Prediction**. *Zilong Li(Heilongjiang University), Qianqian Ren, Long Chen, Jianguo Sun.* ICASSP 2023. [link](https://ieeexplore.ieee.org/abstract/document/10095151)
-11. **Sparse Graph Learning from Spatiotemporal Time Series**. *Andrea Cini(Università della Svizzera italiana), Daniele Zambon, Cesare Alippi.* JMLR 2023. [link](https://www.jmlr.org/papers/v24/22-1154.html)
-12. **Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference**. *Shaojie Dai(Ocean University of China), Jinshuai Wang, Chao Huang, Yanwei Yu, Junyu Dong.* TKDD 2023. [link](https://dl.acm.org/doi/10.1145/3564754)
-13. **Graph Neural Rough Differential Equations for Traffic Forecasting**. *Jeongwhan Choi(Yonsei University), Noseong Park.* TIST 2023. [link](https://dl.acm.org/doi/10.1145/3604808)
+1. **A Multi-graph Fusion Based Spatiotemporal Dynamic Learning Framework**. *Xu Wang(USTC), Lianliang Chen, Hongbo Zhang, Pengkun Wang, Zhengyang Zhou, Yang Wang.* WSDM 2023. [link](https://dl.acm.org/doi/10.1145/3539597.3570396)
+2. **A Knowledge-Driven Memory System for Traffic Flow Prediction**. *Binwu Wang(USTC), Yudong Zhang, Pengkun Wang, Xu Wang, Lei Bai, Yang Wang.* DASFAA 2023. [link](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_15)
+3. **Region-Aware Graph Convolutional Network for Traffic Flow Forecasting**. *Haitao Liang(Soochow University), An Liu, Jianfeng Qu, Wei Chen, Xiaofang Zhang, Lei Zhao.* DASFAA 2023. [link](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_32)
+4. **Dual-Stage Graph Convolution Network With Graph Learning For Traffic Prediction**. *Zilong Li(Heilongjiang University), Qianqian Ren, Long Chen, Jianguo Sun.* ICASSP 2023. [link](https://ieeexplore.ieee.org/abstract/document/10095151)
+5. **Sparse Graph Learning from Spatiotemporal Time Series**. *Andrea Cini(Università della Svizzera italiana), Daniele Zambon, Cesare Alippi.* JMLR 2023. [link](https://www.jmlr.org/papers/v24/22-1154.html)
+6. **Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference**. *Shaojie Dai(Ocean University of China), Jinshuai Wang, Chao Huang, Yanwei Yu, Junyu Dong.* TKDD 2023. [link](https://dl.acm.org/doi/10.1145/3564754)
+7. **Graph Neural Rough Differential Equations for Traffic Forecasting**. *Jeongwhan Choi(Yonsei University), Noseong Park.* TIST 2023. [link](https://dl.acm.org/doi/10.1145/3604808)
 
 **2022**
 
 ----
 
-1. **DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting**. *Shiyong Lan(Sichuan University), Yitong Ma, Weikang Huang, Wenwu Wang, Hongyu Yang, Pyang Li.* ICML 2022. [link](https://proceedings.mlr.press/v162/lan22a.html)
-2. **FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting**. *Tian Zhou(Alibaba Group), Ziqing Ma, Qingsong Wen, Xue Wang, Liang Sun, Rong Jin.* ICML 2022. [link](https://proceedings.mlr.press/v162/zhou22g.html)
-3. **Domain Adaptation for Time Series Forecasting via Attention Sharing**. *Xiaoyong Jin(AWS AI Labs), Youngsuk Park, Danielle C. Maddix, Hao Wang, Yuyang Wang.* ICML 2022. [link](https://arxiv.org/abs/2102.06828)
-4. **Utilizing Expert Features for Contrastive Learning of Time-Series Representations**. *Manuel Nonnenmacher(Robert
-   Bosch GmbH), Lukas Oldenburg, Ingo Steinwart, David Reeb.* ICML 2022. [link](https://proceedings.mlr.press/v162/nonnenmacher22a/nonnenmacher22a.pdf)
-5. **Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion**. *Ling Yang(PKU), Shenda Hong.* ICML 2022. [link](https://openreview.net/forum?id=MjbdO3_ihp)
-6. **A Data-Driven Spatial-Temporal Graph Neural Network for Docked Bike Prediction**. *Guanyao Li(HKUST), Xiaofeng Wang, Gunarto Sindoro Njoo, Shuhan Zhong, S.-H. Gary Chan, Chih-chieh hung, Wen-Chih Peng.* ICDE 2022. [link](https://ieeexplore.ieee.org/document/9835338)
-7. **Towards Spatio-Temporal Aware Traffic Time Series Forecasting**. *Razvan-Gabriel Cirstea(Aalborg University), Bin Yang, Chenjuan Guo, Tung Kieu, Shirui Pan.* ICDE 2022. [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9835586)
-8. **APOTS: A Model for Adversarial Prediction of Traffic Speed**. *Namhyuk Kim(Hyundai Motor Company), Junho Song, Siyoung Lee, Jaewon Choe, Kyungsik Han, Sunghwan Park, Sang-Wook Kim.* ICDE 2022. [link](https://ieeexplore.ieee.org/document/9835704)
-9. **Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting**. *Zezhi Shao(CAS), Zhao Zhang, Wei Wei, Fei Wang, Yongjun Xu, Xin Cao, Christian S. Jensen.* VLDB 2022. [link](https://arxiv.org/abs/2206.09112)
-10. **ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction**. *Liang Zhao(Chongqing University), Min Gao, Zongwei Wang.* WSDM 2022. [link](https://dl.acm.org/doi/abs/10.1145/3488560.3498444)
-11. **CMT-Net: A Mutual Transition Aware Framework for Taxicab Pick-ups and Drop-offs Co-Prediction**. *Yudong Zhang(USTC), Binwu Wang, Ziyang Shan, Zhengyang Zhou, Yang Wang.* WSDM 2022. [link](https://dl.acm.org/doi/10.1145/3488560.3498394)
-12. **Graph-Based Traffic Forecasting via Communication-Efficient Federated Learning**. *Chenhan Zhang(Southern University of Science and Technology), Shiyao Zhang, Shui Yu, James J.Q. Yu.* WCNC 2022. [link](https://ieeexplore.ieee.org/document/9771883)
-13. **Spatio-Temporal Latent Graph Structure Learning for Traffic Forecasting**. *Jiabin Tang(Southwest Jiaotong University), Tang Qian, Shijing Liu, Shengdong Du, Jie Hu, Tianrui Li.* IJCNN 2022. [link](https://arxiv.org/abs/2202.12586)
-14. **Dynamic Graph Convolutional Recurrent Network for Traffic Prediction: Benchmark and Solution**. *Fuxian Li(THU), Jie Feng, Huan Yan, Guangyin Jin, Depeng Jin, Yong Li.* TKDD 2022. [link](https://dl.acm.org/doi/10.1145/3532611)
-15. **Adaptive Spatio-temporal Graph Neural Network for traffic forecasting**. *Xuxiang Ta(BUAA), Zihan Liu, Xiao Hu, Le Yu, Leilei Sun, Bowen Du.* KBS 2022. [link](https://www.sciencedirect.com/science/article/pii/S0950705122000508)
+1. **Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting**. *Zezhi Shao(CAS), Zhao Zhang, Wei Wei, Fei Wang, Yongjun Xu, Xin Cao, Christian S. Jensen.* VLDB 2022. [link](https://arxiv.org/abs/2206.09112)
+2. **ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction**. *Liang Zhao(Chongqing University), Min Gao, Zongwei Wang.* WSDM 2022. [link](https://dl.acm.org/doi/abs/10.1145/3488560.3498444)
+3. **CMT-Net: A Mutual Transition Aware Framework for Taxicab Pick-ups and Drop-offs Co-Prediction**. *Yudong Zhang(USTC), Binwu Wang, Ziyang Shan, Zhengyang Zhou, Yang Wang.* WSDM 2022. [link](https://dl.acm.org/doi/10.1145/3488560.3498394)
+4. **Graph-Based Traffic Forecasting via Communication-Efficient Federated Learning**. *Chenhan Zhang(Southern University of Science and Technology), Shiyao Zhang, Shui Yu, James J.Q. Yu.* WCNC 2022. [link](https://ieeexplore.ieee.org/document/9771883)
+5. **Spatio-Temporal Latent Graph Structure Learning for Traffic Forecasting**. *Jiabin Tang(Southwest Jiaotong University), Tang Qian, Shijing Liu, Shengdong Du, Jie Hu, Tianrui Li.* IJCNN 2022. [link](https://arxiv.org/abs/2202.12586)
+6. **Dynamic Graph Convolutional Recurrent Network for Traffic Prediction: Benchmark and Solution**. *Fuxian Li(THU), Jie Feng, Huan Yan, Guangyin Jin, Depeng Jin, Yong Li.* TKDD 2022. [link](https://dl.acm.org/doi/10.1145/3532611)
+7. **Adaptive Spatio-temporal Graph Neural Network for traffic forecasting**. *Xuxiang Ta(BUAA), Zihan Liu, Xiao Hu, Le Yu, Leilei Sun, Bowen Du.* KBS 2022. [link](https://www.sciencedirect.com/science/article/pii/S0950705122000508)
 
 **2021**
 
----
+-----
 
-1. **Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting**. *Yuzhou Chen(Southern Methodist University), Ignacio Segovia-Dominguez, Yulia R. Gel.* ICML 2021. [link](https://arxiv.org/abs/2105.04100)
-2. **Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting**. *Kashif Rasul(Zalando Research), Calvin Seward, Ingmar Schuster, Roland Vollgraf.* ICML 2021. [link](http://proceedings.mlr.press/v139/rasul21a/rasul21a.pdf)
-3. **Modeling Citywide Crowd Flows using Attentive Convolutional LSTM**. *Chi Harold Liu(BIT), Chengzhe Piao, Xiaoxin Ma, Ye Yuan, Jian Tang, Guoren Wang, Kin K. Leung.* ICDE 2021. [link](https://ieeexplore.ieee.org/abstract/document/9458664)
-4. **An Effective Joint Prediction Model for Travel Demands and Traffic Flows**. *Haitao Yuan(THU), Guoliang Li, Zhifeng Bao, Ling Feng.* ICDE 2021. [link](https://ieeexplore.ieee.org/document/9458698)
-5. **MDTP: A Multi-source Deep Traffic Prediction Framework over Spatio-Temporal Trajectory Data**. *Ziquan Fang(ZJU), Lu Pan, Lu Chen, Yuntao Du, Yunjun Gao.* VLDB 2021. [link](https://vldb.org/pvldb/vol14/p1289-gao.pdf)
-6. **METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting**. *Yue Cui(HKUST), Kai Zheng, Dingshan Cui, Jiandong Xie, Liwei Deng, Feiteng Huang, Xiaofang Zhou.* VLDB 2021. [link](https://dl.acm.org/doi/abs/10.14778/3489496.3489503)
-7. **Predicting Crowd Flows via Pyramid Dilated Deeper Spatial-temporal Network**. *Congcong Miao(THU), Jiajun Fu, Jilong Wang, Heng Yu, Botao Yao, Anqi Zhong, Jie Chen, Zekun He.* WSDM 2021. [link](https://dl.acm.org/doi/10.1145/3437963.3441785)
-8. **MT-STNets: Multi-Task Spatial-Temporal Networks for Multi-Scale Traffic Prediction**. *Senzhang Wang(Central South University), Meiyue Zhang, Hao Miao, Philip S. Yu.* SDM 2021. [link](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.57)
-9. **STG-Meta: Spatial-Temporal Graph Meta-Learning for Traffic Forecasting**. *Jiadong Li(THU), Wang Pan, Qipu Deng, Zhi Wang, Wenwu Zhu.* IJCNN 2021. [link](https://ieeexplore.ieee.org/document/9534420)
-10. **Transfer Learning in Traffic Prediction with Graph Neural Networks**. *Yunjie Huang(Southern University of Science and Technology), Xiaozhuang Song, Shiyao Zhang, James J.Q. Yu.* ITSC 2021. [link](https://ieeexplore.ieee.org/abstract/document/9564890)
-11. **Fine-Grained Spatial-Temporal Representation Learning with Missing Data Completion for Traffic Flow Prediction**. *Shiqi Wang( Chongqing Universit), Min Gao, Zongwei Wang, Jia Wang, Fan Wu, Junhao Wen.* CollaborateCom 2021. [link](https://link.springer.com/chapter/10.1007/978-3-030-92635-9_9)
-12. **AreaTransfer: A Cross-City Crowd Flow Prediction Framework Based on Transfer Learning**. *Xiaohui Wei(Jilin University), Tao Guo, Hongmei Yu, Zijian Li, Hao Guo, Xiang Li.* SmartCom 2021. [link](https://link.springer.com/chapter/10.1007/978-3-030-97774-0_22)
-13. **TAGCN: Station-level demand prediction for bike-sharing system via a temporal attention graph convolution network**. *Wenjie Zi(National University of Defense Technology), Wei Xiong, Hao Chen, Luo Chen.* Information Sciences 2021. [link](https://www.sciencedirect.com/science/article/abs/pii/S0020025521001031)
-14. **A transfer approach with attention reptile method and long-term generation mechanism for few-shot traffic prediction**. *Chujie Tian(BUPT), Xinning Zhu, Zheng Hu, JianMa.* Neurocomputing 2021. [link](https://www.sciencedirect.com/science/article/abs/pii/S0925231221004549)
-15. **Long-term Origin-Destination Demand Prediction with Graph Deep Learning**. *Xiexin Zou(Southern University of Science and Technology), Shiyao Zhang, Chenhan Zhang, James J.Q. Yu, Edward Chung.* TBD 2021. [link](https://ieeexplore.ieee.org/document/9369004)
-16. **Spatial-temporal attention wavenet: A deep learning framework for traffic prediction considering spatial-temporal dependencies**. *Chenyu Tian(THU), Wai Kin (Victor) Chan.* IET Intelligent Transport Systems 2021. [link](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12044)
-17. **Graph Sequence Neural Network with an Attention Mechanism for Traffic Speed Prediction**. *Zhilong Lu(BUAA), Weifeng Lv, Zhipu Xie, Bowen Du, Guixi Xiong, Leilei Sun, Haiquan Wang.* TIST 2021. [link](https://dl.acm.org/doi/abs/10.1145/3470889)
+1. **MDTP: A Multi-source Deep Traffic Prediction Framework over Spatio-Temporal Trajectory Data**. *Ziquan Fang(ZJU), Lu Pan, Lu Chen, Yuntao Du, Yunjun Gao.* VLDB 2021. [link](https://vldb.org/pvldb/vol14/p1289-gao.pdf)
+2. **METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting**. *Yue Cui(HKUST), Kai Zheng, Dingshan Cui, Jiandong Xie, Liwei Deng, Feiteng Huang, Xiaofang Zhou.* VLDB 2021. [link](https://dl.acm.org/doi/abs/10.14778/3489496.3489503)
+3. **Predicting Crowd Flows via Pyramid Dilated Deeper Spatial-temporal Network**. *Congcong Miao(THU), Jiajun Fu, Jilong Wang, Heng Yu, Botao Yao, Anqi Zhong, Jie Chen, Zekun He.* WSDM 2021. [link](https://dl.acm.org/doi/10.1145/3437963.3441785)
+4. **MT-STNets: Multi-Task Spatial-Temporal Networks for Multi-Scale Traffic Prediction**. *Senzhang Wang(Central South University), Meiyue Zhang, Hao Miao, Philip S. Yu.* SDM 2021. [link](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.57)
+5. **STG-Meta: Spatial-Temporal Graph Meta-Learning for Traffic Forecasting**. *Jiadong Li(THU), Wang Pan, Qipu Deng, Zhi Wang, Wenwu Zhu.* IJCNN 2021. [link](https://ieeexplore.ieee.org/document/9534420)
+6. **Transfer Learning in Traffic Prediction with Graph Neural Networks**. *Yunjie Huang(Southern University of Science and Technology), Xiaozhuang Song, Shiyao Zhang, James J.Q. Yu.* ITSC 2021. [link](https://ieeexplore.ieee.org/abstract/document/9564890)
+7. **Fine-Grained Spatial-Temporal Representation Learning with Missing Data Completion for Traffic Flow Prediction**. *Shiqi Wang( Chongqing Universit), Min Gao, Zongwei Wang, Jia Wang, Fan Wu, Junhao Wen.* CollaborateCom 2021. [link](https://link.springer.com/chapter/10.1007/978-3-030-92635-9_9)
+8. **AreaTransfer: A Cross-City Crowd Flow Prediction Framework Based on Transfer Learning**. *Xiaohui Wei(Jilin University), Tao Guo, Hongmei Yu, Zijian Li, Hao Guo, Xiang Li.* SmartCom 2021. [link](https://link.springer.com/chapter/10.1007/978-3-030-97774-0_22)
+9. **TAGCN: Station-level demand prediction for bike-sharing system via a temporal attention graph convolution network**. *Wenjie Zi(National University of Defense Technology), Wei Xiong, Hao Chen, Luo Chen.* Information Sciences 2021. [link](https://www.sciencedirect.com/science/article/abs/pii/S0020025521001031)
+10. **A transfer approach with attention reptile method and long-term generation mechanism for few-shot traffic prediction**. *Chujie Tian(BUPT), Xinning Zhu, Zheng Hu, JianMa.* Neurocomputing 2021. [link](https://www.sciencedirect.com/science/article/abs/pii/S0925231221004549)
+11. **Long-term Origin-Destination Demand Prediction with Graph Deep Learning**. *Xiexin Zou(Southern University of Science and Technology), Shiyao Zhang, Chenhan Zhang, James J.Q. Yu, Edward Chung.* TBD 2021. [link](https://ieeexplore.ieee.org/document/9369004)
+12. **Spatial-temporal attention wavenet: A deep learning framework for traffic prediction considering spatial-temporal dependencies**. *Chenyu Tian(THU), Wai Kin (Victor) Chan.* IET Intelligent Transport Systems 2021. [link](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12044)
+13. **Graph Sequence Neural Network with an Attention Mechanism for Traffic Speed Prediction**. *Zhilong Lu(BUAA), Weifeng Lv, Zhipu Xie, Bowen Du, Guixi Xiong, Leilei Sun, Haiquan Wang.* TIST 2021. [link](https://dl.acm.org/doi/abs/10.1145/3470889)
 
 **2020**
 
@@ -1140,8 +1191,6 @@ ___
 1. **ST-MGAT: Spatial-Temporal Multi-Head Graph Attention Networks for Traffic Forecasting.** *Kelang Tian; Jingjie Guo; Kejiang Ye; Cheng-Zhong Xu.* IEEE ICTAI 2020. [link](https://ieeexplore.ieee.org/abstract/document/9288309/)
 1. **Multi-STGCnet: A Graph Convolution Based Spatial-Temporal Framework for Subway Passenger Flow Forecasting.** *Jiexia Ye; Juanjuan Zhao; Kejiang Ye; Chengzhong Xu.* IEEE IJCNN 2020. [link](https://ieeexplore.ieee.org/abstract/document/9207049)
 1. **Multi-graph convolutional network for short-term passenger flow forecasting in urban rail transit.** *Jinlei Zhang; Feng Chen; Yinan Guo; Xiaohong Li.* IET ITS 2020. [link](https://digital-library.theiet.org/content/journals/10.1049/iet-its.2019.0873)
-1. **Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network**. *Hongzhi Shi(THU), Quanming Yao, Qi Guo, Yaguang Li, Lingyu Zhang, Jieping Ye, Yong Li, Yan Liu.* ICDE 2020. [link](https://ieeexplore.ieee.org/abstract/document/9101359)
-1. **Stochastic Origin-Destination Matrix Forecasting Using Dual-Stage Graph Convolutional, Recurrent Neural Networks**. *Jilin Hu(Inception Institute of Artificial Intellegence), Bin Yang, Chenjuan Guo, Christian S. Jensen, Hui Xiong.* ICDE 2020. [link](https://ieeexplore.ieee.org/abstract/document/9101647)
 1. **Transfer Learning with Graph Neural Networks for Short-Term Highway Traffic Forecasting**. *Tanwi Mallick(Argonne National Laboratory), Prasanna Balaprakash, Eric Rask, Jane Macfarlane.* ICPR 2020. [link](https://ieeexplore.ieee.org/document/9413270)
 1. **Dynamic Graph Filters Networks: A Gray-box Model for Multistep Traffic Forecasting**. *Guopeng LI(University of Technology Delft), Victor L. Knoop, Hans van Lint.* ITSC 2020. [link](https://ieeexplore.ieee.org/abstract/document/9294627/)
 1. **Short-term Traffic Prediction with Deep Neural Networks and Adaptive Transfer Learning**. *Junyi Li(ICL), Fangce Guo, Yibing Wang, Lihui Zhang, Xiaoxiang Na, Simon Hu.* ITSC 2020. [link](https://ieeexplore.ieee.org/document/9294409)
@@ -1182,8 +1231,6 @@ ___
 ___
 1. **Location Prediction: A Temporal-Spatial Bayesian Model.** *Yantao Jia, Yuanzhuo Wang, Xiaolong Jin, Xueqi Cheng.* ACM TIST 2016. [link](https://dl.acm.org/doi/10.1145/2816824)
 1. **A Unified Point-of-Interest Recommendation Framework in Location-Based Social Networks.** *Chen Cheng, Haiqin Yang, Irwin King, Michael R. Lyu.* ACM TIST 2016. [link](https://dl.acm.org/doi/10.1145/2901299)
-1. **Personalized route recommendation using big trajectory data.** *J Dai, B Yang, C Guo, Z Ding.* ICDE 2015. [link](https://ieeexplore.ieee.org/abstract/document/7113313)
-1. **Discovering popular routes from trajectories.** *Z Chen, HT Shen, X Zhou.* ICDE 2011. [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5767890)
 1. **Using LSTM and GRU Neural Network Methods for Traffic Flow Prediction**. *Rui Fu(THU), Zuo Zhang, Li Li.* YAC 2016. [link](https://ieeexplore.ieee.org/abstract/document/7804912/)
 1. **Long short-term memory neural network for traffic speed prediction using remote microwave sensor data**. *Xiaolei Ma(BUAA), Zhimin Tao, Yinhai Wang, Haiyang Yu, Yunpeng Wang.* Transportation Research Part C: Emerging Technologies 2015. [link](https://www.sciencedirect.com/science/article/abs/pii/S0968090X15000935)
 1. **New Bayesian combination method for short-term traffic flow forecasting**. *Jian Wang(Purdue University), Wei Deng, Yuntao Guo.* Transportation Research Part C: Emerging Technologies 2014. [link](https://www.sciencedirect.com/science/article/abs/pii/S0968090X14000370)
@@ -1194,7 +1241,7 @@ ___
 
 There are contributors to this paper collection, we will continue to update it.
 
-<a href="https://github.com/WenMellors"><img src="https://avatars.githubusercontent.com/u/33283819?v=4" width=98px></img></a> <a href="https://github.com/aptx1231"><img src="https://avatars.githubusercontent.com/u/35984903?v=4" width=98px></img></a> <a href="https://github.com/NickHan-cs"><img src="https://avatars.githubusercontent.com/u/59010369?v=4" width=98px></img></a> <a href="https://github.com/XBR-1111"><img src="https://avatars.githubusercontent.com/u/59074275?v=4" width=98px></img></a> 
+<a href="https://github.com/WenMellors"><img src="https://avatars.githubusercontent.com/u/33283819?v=4" width=98px></img></a> <a href="https://github.com/aptx1231"><img src="https://avatars.githubusercontent.com/u/35984903?v=4" width=98px></img></a> <a href="https://github.com/NickHan-cs"><img src="https://avatars.githubusercontent.com/u/59010369?v=4" width=98px></img></a> <a href="https://github.com/XBR-1111"><img src="https://avatars.githubusercontent.com/u/59074275?v=4" width=98px></img></a> <a href="https://github.com/MarSeventh"><img src="https://avatars.githubusercontent.com/u/108160987" width="98px"></img></a>
 
 # Cite
 
